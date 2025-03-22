@@ -1,0 +1,60 @@
+.sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 0.125em 0.25em rgba(0, 0, 0, 0.2);
+    transition: top 0.3s ease-in-out;
+}
+
+.arrow-container {
+    position: relative;
+}
+
+.arrow-container::before {
+    content: "";
+    position: absolute;
+    bottom: calc(2.5% + 4.0625rem);
+    right: calc(7.9% - 0.5625em);
+    width: 2.5em;
+    height: 2.5em;
+    background-color: rgba(128, 128, 128, 0.5);
+    border-radius: 50%;
+    animation: bounce 2s infinite;
+}
+
+.arrow-down {
+    position: absolute;
+    bottom: calc(2.5% + 4.5rem);
+    right: 8%;
+    font-size: 1.5em;
+    color: #fff;
+    animation: bounce 2s infinite;
+    cursor: pointer;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-1.25em);
+    }
+    60% {
+        transform: translateY(-0.625em);
+    }
+}
+
+.scroll-down-text {
+    position: absolute;
+    bottom: calc(5% + 1.875em);
+    right: 5.3%;
+    color: #fff;
+    font-size: 1.125em;
+}
+
+.hero-wrapper {
+    height: calc(100vh - 3.25em);
+    overflow: hidden;
+}

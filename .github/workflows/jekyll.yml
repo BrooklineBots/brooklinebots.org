@@ -1,0 +1,76 @@
+name: Jekyll site CI
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+      - qa
+  pull_request:
+    branches:
+      - master
+      - qa
+
+jobs:
+  jekyll:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    # Use GitHub Actions' cache to shorten build times and decrease load on servers
+    - uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+
+    - name: Setup Node environment
+      run: npm install
+      working-directory: ./
+
+    # Standard usage
+    - uses: helaili/jekyll-action@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        jekyll_src: './'
+        build_dir: _site
+        build_only: true
+
+    - name: Create CNAME file (prod)
+      run: |
+        sudo chown -R $USER:$USER _site
+        touch _site/CNAME
+        echo teambroncobots.com >> '_site/CNAME'
+        tree _site
+      shell: bash
+      if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
+
+    - name: Deploy (prod) 🚀
+      uses: JamesIves/github-pages-deploy-action@v4
+      env:
+        TBA_API_KEY : ${{ secrets.TBA_API_KEY }}
+      with:
+        folder: _site # The folder the action should deploy.
+      if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
+
+    - name: Create CNAME file (qa)
+      run: |
+        sudo chown -R $USER:$USER _site
+        touch _site/CNAME
+        echo dev.teambroncobots.com >> '_site/CNAME'
+        tree _site
+      shell: bash
+      if: github.ref == 'refs/heads/qa' && github.event_name != 'pull_request'
+
+    - name: Deploy (qa) 🚀
+      uses: milanmk/actions-file-deployer@master
+      with:
+        remote-protocol: 'sftp'
+        remote-host: 'dev.teambroncobots.com'
+        remote-user: 'cecgri'
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+        local-path: './_site'
+        remote-path: '/home/cecgri/dev.teambroncobots.com'
+        sync: 'full'
+      if: github.ref == 'refs/heads/qa' && github.event_name != 'pull_request'

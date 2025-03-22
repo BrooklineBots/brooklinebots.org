@@ -1,0 +1,39 @@
+- tier_name: Sponsors
+  size: small
+  description: |-
+  sponsors:
+    - name: AES Corporation
+      description: Company Sponsor
+      profile: https://www.aes.com/
+    - name: Amind Solutions
+      description: Company Sponsor
+    - name: Apollo Autonomy
+      description: Company Sponsor
+    - name: BHS Science Department
+      description: School Sponsor
+    - name: Board Leaders Inc
+      description: Group Sponsor
+    - name: The Committee to Elect Tommy Vitolo
+      description: Personal Sponsor
+    - name: Eduporium
+      description: Company Sponsor
+    - name: Elizabeth Shutters
+      description: Personal Sponsor
+    - name: Rizika Realty Trust
+      description: Company Sponsor
+    - name: The Sweater Guys
+      description: Company Sponsor
+    - name: Glassman and Associates
+      description: Company Sponsor
+    - name: Jon and Francie Karlen
+      description: Personal Sponsors
+    - name: Magnolia Optical and Yash Puri
+      description: Company and Personal Sponsor
+    - name: Plex systems
+      description: Company Sponsor
+    - name: Pop cart
+      description: Company Sponsor
+    - name: True Motion
+      description: Company Sponsor
+    - name: The Rotary Club
+      description: Company Sponsor

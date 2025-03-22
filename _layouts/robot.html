@@ -1,0 +1,182 @@
+---
+layout: default
+---
+
+<style>
+    .responsive-video-wrapper {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 aspect ratio */
+        height: 0;
+        overflow: hidden;
+        max-width: 100%;
+        height: auto;
+    }
+
+    .responsive-video-wrapper iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+
+    .game-video {
+        width: 75%;
+        margin: auto;
+    }
+
+    .videos-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+
+    @media (max-width: 1000px) {
+        .videos-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .game-video {
+            width: 100%;
+        }
+    }
+
+    @media (max-width: 600px) {
+        .responsive-video-wrapper {
+            padding-bottom: 75%; /* 4:3 aspect ratio for smaller screens */
+        }
+    }
+</style>
+
+<div class="columns is-multiline">
+
+    <div class="column is-6">
+        <figure class="image is-1by1">
+            <img src="{{ page.image }}" />
+        </figure>
+    </div>
+
+    <div class="column is-6">
+        <p class="title is-3">{{ page.title }}</p>
+        <p class="subtitle is-3">{{ page.subtitle }}</p>
+        <!--        {% if page.description %}-->
+        <!--        <p class="subtitle is-5 has-text-right">{{ page.description }}</p>-->
+        <!--        {% endif %}-->
+
+        {% if page.awardsWon %}
+        {% include awardsWon.html awards=page.awardsWon %}
+        {% endif %}
+
+        {% if page.features %}
+        <div class="content">
+            {% for feature in page.features %}
+            <p>
+               <span class="icon">
+                   {% if feature.icon %}
+                   <i class="fas {{ feature.icon }}"></i>
+                   {% else %}
+                   <i class="fas fa-circle fa-xs"></i>
+                   {% endif %}
+               </span>
+                <span>{{ feature.label }}</span></p>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        {% if page.CompetitionLogo %}
+        <img src="{{ page.CompetitionLogo }}" style="display: block; margin-left: auto; margin-right: auto; flex-shrink: 0; max-height: 20em; min-height: 10em; max-width: 30em;"/>
+        {% endif %}
+    </div>
+
+    <div class="column is-12">
+        <p class="title is-4"></p>
+        <div class="content">
+            {{ content }}
+        </div>
+    </div>
+
+    {% if site.data.reviews[page.robot_code] %}
+    <div class="column is-12">
+        <p class="title is-4">Reviews</p>
+        {% for review in site.data.reviews[page.robot_code] %}
+        {% include review.html %}
+        {% endfor %}
+    </div>
+    {% endif %}
+
+    <div class="column is-6">
+        {% if page.Specifications %}
+        <div class="content">
+            <h2>Specifications</h2>
+            <ul>
+                {% for Specification in page.Specifications %}
+                <li>{{ Specification.item }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+        {% if page.Capabilities %}
+        <div class="content">
+            <h2>Capabilities</h2>
+            <ul>
+                {% for Capability in page.Capabilities %}
+                <li>{{ Capability.item }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+    </div>
+
+    <div class="column is-6">
+
+        {% if page.Competitions %}
+        <div class="content">
+            <h2>Competitions</h2>
+            <ul>
+                {% for Competition in page.Competitions %}
+                <li>{{ Competition.item }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+        {% if page.Links %}
+        <div class="content">
+            <h2>Links</h2>
+            <div style="display: flex; flex-wrap: wrap;justify-content: center; align-items: center;">
+                {% for Item in page.Links %}
+                <a href="{{ Item.link }}" target="_blank" style="display: inline-block; text-decoration: none; margin-right: 2.5rem; margin-bottom: 1rem;">
+                    <div style="text-decoration: underline; font-size: 1.5em; width: 6.5em; height: 6.5em; background-color: #990202; border-radius: 24%; color: #F2F2F2; display: flex; justify-content: center; align-items: center; padding: 1rem; text-align: center; white-space: normal; word-wrap: break-word;">
+                        {{ Item.item }}
+                    </div>
+                </a>
+                {% endfor %}
+
+            </div>
+        </div>
+        {% endif %}
+    </div>
+
+</div>
+
+{% if page.GameVideo %}
+<div class="content">
+    <h2>Game Animation</h2>
+    <div class="responsive-video-wrapper game-video">
+        <iframe src="https://www.youtube.com/embed/{{page.GameVideo}}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+{% endif %}
+
+{% if page.Videos %}
+<div class="content">
+    <h2>Videos</h2>
+    <div class="videos-grid">
+        {% for item in page.Videos %}
+        <div class="responsive-video-wrapper">
+            <iframe src="https://www.youtube.com/embed/{{item.item}}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endif %}

@@ -1,0 +1,93 @@
+<style>
+    .footer {
+        background-color: #f8f8f8;
+        padding: 1em 0;
+    }
+
+    .footer .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .footer .social-media {
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 1em;
+        width: 100%;
+    }
+
+    .footer .social-media .icon-wrapper {
+        margin: 1em;
+    }
+
+    .footer .social-media .icon-wrapper a {
+        font-size: 2em;
+        color: #830506;
+        transition: transform 0.3s;
+    }
+
+    .footer .social-media .icon-wrapper a:hover {
+        transform: scale(1.2);
+    }
+
+    .footer .content {
+        text-align: center;
+    }
+
+    @media (max-width: 480px) {
+        .footer .social-media {
+            flex-wrap: wrap;
+        }
+    }
+
+    @media (max-width: 770px) {
+        .footer .social-media {
+            justify-content: center;
+        }
+
+        .footer .social-media .icon-wrapper {
+            flex: 1 1 30%;
+            margin: 0.5em;
+        }
+
+        .footer .social-media .icon-wrapper a {
+            font-size: 1.5em;
+        }
+
+        .footer .content img {
+            width: 100px;
+            height: 133px;
+        }
+    }
+</style>
+</head>
+<body>
+<footer class="footer">
+    <div class="container">
+        {% unless page.hide_countdown %}
+        {% include countdown.html %}
+        {% endunless %}
+    </div>
+    <div class="container">
+        <div class="social-media">
+            {% for item in site.data[site.footer_social_media] %}
+            <div class="icon-wrapper">
+                {% if item.company %}
+                <a href="{{ item.link | relative_url }}" class="link"><i class="fa-brands {{ item.icon }}"></i></a>
+                {% else %}
+                <a href="{{ item.link | relative_url }}" class="link"><i class="fas {{ item.icon }}"></i></a>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+
+        <div class="content is-small has-text-centered">
+            <a href='{{ site.baseurl }}/'>
+                <img src="{{ site.baseurl }}/broncobots.svg" alt="Broncobots Logo" width="150" height="200">
+            </a>
+            <p>© The Broncobots. All rights reserved.</p>
+        </div>
+    </div>
+</footer>

@@ -1,0 +1,47 @@
+<style>
+        .has-text-centered-mobile {
+            display: flex;
+            justify-content: center;
+        }
+
+        .full-rounded-mobile {
+            font-size: 1em;
+        }
+
+</style>
+
+<div class="card">
+    {% if post.image %}
+    <link rel="stylesheet" href="/assets/css/buttonHover.css" />
+    <div class="card-image">
+        <img src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}">
+    </div>
+    {% else %}
+    <header class="card-header">
+        <a class="card-header-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>
+    </header>
+    {% endif %}
+    <div class="card-content">
+        <div class="content">
+            {% if post.image %}
+            <a class="title is-4" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>
+            {% endif %}
+            {% if post.summary %}
+            {{ post.summary | markdownify }}
+            {% else %}
+            <!-- <p>{{ post.excerpt }}</p> -->
+            {% endif %}
+        </div>
+        <div class="has-text-centered-mobile">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+                <buttonhover class="full-rounded-mobile">
+                    <span>Read more</span>
+                    <div class="border full-rounded-mobile"></div>
+                </buttonhover>
+            </a>
+        </div>
+    </div>
+    <footer class="card-footer">
+        <p class="card-footer-item">Published: {{ post.date | date: "%b %-d, %Y" }}</p>
+    </footer>
+</div>
