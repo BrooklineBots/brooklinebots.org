@@ -1,7 +1,7 @@
 - name: Sponsors
   link: /sponsors/
-- name: Robots
-  link: /robots/
+#- name: Robots
+#  link: /robots/
 - name: FIRST
   link: https://www.firstinspires.org/
   newtab: true

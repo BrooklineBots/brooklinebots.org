@@ -12,8 +12,21 @@ hero_height: is-medium
 
 <div class="centered">
     <p style="color:grey;">
-        Each summer, the Lee's Summit North Broncobots host robotics camps for elementary and middle school aged students to begin exploring and developing an interest in engineering and technology. Much like the high school FIRST Robotics Competition (FRC) league, the students at camp are given a game task and one week to build a functional robot out of VEX parts that is capable of competing in the game designed for that camp. Students are divided into teams of two or three and go from brainstorming to competition as a team throughout the week of camp. Students are also given the chance to design flyers and websites for their team in some level, much like the high school students. The campers work closely with each other, as well as with high school mentors, to design the best robot they can. Throughout the week of camp, students come away with knowledge and new friendships. In addition, the team hosts an engineering camp for elementary students during which students learn about a different type of engineering every day. The Broncobots would like to thank all the students who participate in their camps for their hard work.
-    </p>
+
+
+In our camp, we make robotics fun for students ages 7 - 13. Here are some things your child will be able to do:
+
+    <br/>Build and program innovative Lego robots
+    <br/>Compete in battle bot competitions
+    <br/>Play robot soccer
+    <br/>Meet other STEM interested students
+
+
+No experience is required!
+
+Brookline Robotics Camp Sign Up Information:
+This summer, we are excited to announce our collaboration with both Penguin Coding School and The Robo Hub! The buttons below will send you to a PDF of a flyer with information for both the Penguin Coding School Robotics Camp and The Robo Hub Robotics Camp, both in partnership with the Brookline Robotics Initiative.
+</p>
 </div>
 
 [//]: # (<div class="centered">)
