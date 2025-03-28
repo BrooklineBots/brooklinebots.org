@@ -4,7 +4,7 @@ buttonhover {
     margin: auto;
     padding: 1em 2.5em 1em 2.5em;
     border: none;
-    background: #830506;
+    background: #6998cc;
     transition: all 0.1s linear;
     box-shadow: 0 0.4em 1em rgba(0, 0, 0, 0.1);
     color: white;
@@ -20,7 +20,7 @@ buttonhover span {
 
 buttonhover .border {
     position: absolute;
-    border: 0.15em solid #830506;
+    border: 0.15em solid #6998cc;
     transition: all 0.3s 0.08s linear;
     top: 50%;
     left: 50%;

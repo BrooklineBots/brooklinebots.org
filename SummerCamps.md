@@ -41,7 +41,7 @@ This summer, we are excited to announce our collaboration with both Penguin Codi
 
 
 ## Engineering Camp
-{: style="font-size: 45px; text-align: center; color:#830506;"}
+{: style="font-size: 45px; text-align: center; color:#6998cc;"}
 ***
 <div style="text-align: center;">
     <p style="color:grey; display: inline-block; text-align: center;">
@@ -64,7 +64,7 @@ This summer, we are excited to announce our collaboration with both Penguin Codi
 [//]: # (&#40;Includes 15 hours of camp, t-shirt, and snacks&#41;.)
 
 ## VEX Robotics Camp
-{: style="font-size: 45px; text-align: center; color:#830506;"}
+{: style="font-size: 45px; text-align: center; color:#6998cc;"}
 ***
 
 <div style="text-align: center;">
@@ -90,14 +90,14 @@ This summer, we are excited to announce our collaboration with both Penguin Codi
 [//]: # (&#40;Includes 30 hours of camp, t-shirt, snacks, and lunch on Friday&#41;)
 
 ## Registration
-{: style="font-size: 45px; text-align: center; color:#830506;"}
+{: style="font-size: 45px; text-align: center; color:#6998cc;"}
 ***
 
 [Register online](https://www.lsnbroncoscamps.com/robotics-and-engineering-camps.cfm) for summer camps before spots fill.
 {: style="text-align: center; color:grey;"}
 
 ## Questions?
-{: style="font-size: 45px; text-align: center; color:#830506;"}
+{: style="font-size: 45px; text-align: center; color:#6998cc;"}
 ***
 
 Contact camp director Hillary Griffith for more details at [hillary.griffith@lsr7.net](mailto:hillary.griffith@lsr7.net).

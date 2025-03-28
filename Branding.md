@@ -16,8 +16,8 @@ hero_height: is-large
 
 <p>We offer a scalable svg file, used when possible.</p>
 
-<a href="../images/Assets/Branding/broncobots.svg" download>
-    <img width="300px" src="../images/Assets/Branding/broncobots.svg" alt="../images/NoImage.png">
+<a href="../images/Assets/Branding/BrooklineBots.svg" download>
+    <img width="300px" src="../images/Assets/Branding/BrooklineBots.svg" alt="../images/NoImage.png">
 </a>
                                                
 <p>In addition we provide a high resolution logo. Used whenever svg is not a viable option and it is expected to be enlarged or seen at a large scale.</p>

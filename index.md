@@ -5,7 +5,8 @@ layout: page
 callouts: home_callouts
 show_sidebar: false
 [//]: # (If true, then post page appears)
-hero_image: images/Homeimg.jpg
+hero_image: images/websiteTestImage.jpg
+hero_darken: true
 hero_height: is-large
 mobile_black_text: true
 ---
@@ -38,17 +39,6 @@ mobile_black_text: true
 
 **Check back here often for events, competitions, and general team information!**
 
-<div class="descriptors">
-<h1 style="font-size:64px;font-family:Rockwell, Roboto, sans-serif; text-align:center">
-    BBots are
-  <span
-     class="txt-rotate"
-     data-period="2000"
-     data-rotate='["innovators.", "inspirational.", "engineers.", "designers.", "accepting.", "listeners.", "thinkers.", "a family." ]'></span>
-</h1>
-<script src="{{ site.baseurl }}/assets/js/TextAnimation.js"></script>
-</div>
-
 ---
 <div style="text-align:center; vertical-align: middle; padding:0px 0;">
     <img src="images/2024TeamPic.jpg" alt=" " class="zoom" width="800" height="auto" >
@@ -57,7 +47,7 @@ mobile_black_text: true
 
 <div class="zoom"></div> 
 
-<h2 style="color:maroon; text-align:center; font-family:Rockwell, Roboto, sans-serif;">About us</h2>
+<h2 style="color:#6998cc; text-align:center; font-family:Rockwell, Roboto, sans-serif;">About us</h2>
 
 <div style="text-align: center;font-family:Rockwell, Roboto, sans-serif;">
 <buttonhover class="noWrap full-rounded" onclick="teamFocus()"><span class="noWrap">Team Focus</span><div class="border full-rounded"></div></buttonhover>
