@@ -71,27 +71,67 @@ Through the academic year we mentor and coach First Lego League Robotics Teams (
 
 [//]: # (&#40;Includes 15 hours of camp, t-shirt, and snacks&#41;.)
 
-## VEX Robotics Camp
+## The Robo Hub Robotics Camp
 {: style="font-size: 45px; text-align: center; color:#6998cc;"}
 ***
 
 <div style="text-align: center;">
             <p style="color:grey; display: inline-block; text-align: center;">
-            Age Group - 4th, 5th, and 6th graders.
+            Age Group - Rising 1st graders to rising 9th graders.
             <br>
-            Dates - TBD
+            Dates - July 7th – August 15th (Choose any week)
             <br>
-            Times - 9:00am - 3:00 pm
+            Times - 8:30am - 4:00pm (Extended Day available)
             <br>
-            Prerequisites - None
-            <br>
-            Price - $250
+            Price - TBD
             <br><br>
-            Robotics Camp is an introductory level camp for incoming 5th - 7th graders.
-            <br>It allows students to build a VEX robot to compete in a game and achieve certain tasks. 
-            <br>Campers work closely with high school members of the robotics team to build robots and develop game strategy. 
-            <br>They also have the opportunity to design websites and flyers for their team. 
-            <br>At the end of the week, teams will compete to be the Grand Champion of the Robotics Camp. 
+            Dear member of the Brookline Robotics Initiative Community,
+<br/>
+<br/>Big news for Brookline families seeking extraordinary summer experiences!
+<br/>We're thrilled to announce a special collaboration between The Robo Hub and the Brookline Robotics Initiative, featuring Brookline High School's robotics teams (Brookline Bots, TNT, and Cloud 9) to bring world-class robotics education to Baker Elementary School this summer!
+<br/>
+<br/>WHERE BROOKLINE INNOVATION MEETS SUMMER FUN: 
+<br/>This isn't just another tech camp. The Robo Hub creates a warm, inclusive environment where children build robots AND friendships, develop technical skills AND confidence, and experience the perfect balance of structured learning and joyful play.
+<br/>
+<br/>WHAT MAKES THIS PARTNERSHIP SPECIAL:
+<br/>Local Excellence: Camp counselors include members of BHS's renowned robotics teams
+<br/>Community Support: Your registration helps fund Brookline High School Robotics programs
+<br/>Premier Location: Baker Elementary School (2022 National Blue Ribbon School)
+<br/>Proven Curriculum: The same cutting-edge programs from The Robo Hub's flagship Cambridge center​​
+<br/>
+<br/>AVAILABLE PROGRAMS:
+<br/>Rising 1st Graders:
+<br/>STEM Explorers: First Discovery - A playful introduction to coding and robotics
+<br/>Rising 2nd-3rd Graders:
+<br/>STEM Crafters: Engineering Discovery - Dive deeper into coding and engineering
+<br/>BattleBot Crafters Workshop - Design and build custom battle robots
+<br/>Rising 4th-6th Graders:
+<br/>Battlebot Engineers Workshop - More advanced robot design and programming for beginners to seasoned students
+<br/>Aerospace Engineers Workshop - Explore flight principles through hands-on projects
+<br/>
+<br/>EXCLUSIVE OFFER FOR BROOKLINE FAMILIES:
+<br/>SAVE $200 WITH CODE: BROOKBOTS200
+<br/>Using this discount code will support BHS Robotics teams in their fundraising efforts!
+<br/>
+<br/>A DAY AT CAMP INCLUDES:
+<br/>• Hands-on robotics programming and building
+<br/>• Collaborative engineering challenges
+<br/>• Outdoor activities and team-building games
+<br/>• Creative problem-solving projects
+<br/>• Access to cutting-edge technology
+<br/>• Free early drop-off starting at 8:30am
+<br/>• Optional extended day until 5:30pm
+<br/>
+<br/>Spaces are limited and filling quickly for this inaugural Brookline program!
+<br/>
+<br/>Register at therobohub.com/summer-camp-brookline/
+<br/>
+<br/>Have questions? 
+<br/>Reach out to The Robo Hub at 617-395-3151 or info@therobohub.com.
+<br/>
+<br/>Warmly,
+<br/>The Robo Hub Team & Brookline High School Robotics
+<br/>P.S. Remember to use code BROOKBOTS200 at checkout to claim your exclusive $200 discount and support BHS robotics teams!
         </p>
 </div>
 
