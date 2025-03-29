@@ -21,7 +21,7 @@
     .arrow-container::before {
         content: "";
         position: absolute;
-        bottom: calc(2.5% + 4em);
+        bottom: calc(2.5% + 6em);
         right: calc(7.9% - 0.5em);
         width: 2.3em;
         height: 2.3em;
@@ -32,7 +32,7 @@
 
     .arrow-down {
         position: absolute;
-        bottom: calc(2.5% + 3em);
+        bottom: calc(2.5% + 4.25em);
         right: 8%;
         font-size: 1.5em;
         color: #fff;
@@ -54,7 +54,7 @@
 
     .scroll-down-text {
         position: absolute;
-        bottom: calc(5% + 1.4em);
+        bottom: calc(5% + 3em);
         right: 5.3%;
         color: #fff;
         font-size: 1.125em;
@@ -74,8 +74,8 @@
     <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_image }}') no-repeat center center; background-size: cover; height: 100%; " {% endif %}>
         <div class="hero-body {% if page.hero_darken %} hero-darken {% endif %}">
             <div class="container">
-                <h1 class="title is-2" id="mobile-darkness" style="font-family:Rockwell, Roboto, sans-serif; {% if page.down_breaks %} padding-top: 5em;{% endif %} " >{{ page.title }}</h1>
-                <p class="subtitle is-3" id="mobile-darkness" style="font-family:Rockwell, Roboto, sans-serif;">{{ page.subtitle }}</p>
+                <h1 class="title is-2" id="mobile-darkness" style="font-size: 5rem; font-family:Dongle, Roboto, sans-serif; {% if page.down_breaks %} padding-top: 5em;{% endif %} " >{{ page.title }}</h1>
+                <p class="subtitle is-3" id="mobile-darkness" style="font-size: 4rem; font-family:Dongle, Roboto, sans-serif;">{{ page.subtitle }}</p>
 
 
             </div>

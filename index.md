@@ -47,9 +47,9 @@ mobile_black_text: true
 
 <div class="zoom"></div> 
 
-<h2 style="color:#6998cc; text-align:center; font-family:Rockwell, Roboto, sans-serif;">About us</h2>
+<h2 style="color:#6998cc; text-align:center; font-family:Dongle, Roboto, sans-serif; font-size: 500%">About us</h2>
 
-<div style="text-align: center;font-family:Rockwell, Roboto, sans-serif;">
+<div style="text-align: center;font-family:Dongle, Roboto, sans-serif; font-size: 150%;">
 <buttonhover class="noWrap full-rounded" onclick="teamFocus()"><span class="noWrap">Team Focus</span><div class="border full-rounded"></div></buttonhover>
 <buttonhover class="noWrap full-rounded" onclick="missionStatement()"><span class="noWrap">Mission Statement</span><div class="border full-rounded"></div></buttonhover>
 <buttonhover class="noWrap full-rounded" onclick="teamHistory()"><span class="noWrap">Team History</span><div class="border full-rounded"></div></buttonhover>

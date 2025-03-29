@@ -1,13 +1,15 @@
 buttonhover {
-    font-size: 1em;
+    font-size: 1.5em;
     position: relative;
-    margin: auto;
-    padding: 1em 2.5em 1em 2.5em;
+    margin: 0.75rem; /* Adds spacing between buttons */
+    padding: 0.8em 2.5em;
     border: none;
     background: #6998cc;
     transition: all 0.1s linear;
     box-shadow: 0 0.4em 1em rgba(0, 0, 0, 0.1);
     color: white;
+    display: inline-block;
+    line-height: 1.2;
 }
 
 buttonhover:active {
@@ -16,31 +18,52 @@ buttonhover:active {
 
 buttonhover span {
     color: white;
+    display: block;
 }
 
+/* Border animation */
 buttonhover .border {
     position: absolute;
     border: 0.15em solid #6998cc;
-    transition: all 0.3s 0.08s linear;
+    transition: all 0.3s ease;
     top: 50%;
     left: 50%;
-    /*width: 10em;*/
-    /*height: 3em;*/
-    padding: 1.4em 45%                                                                                                                                                                                                      ;
+    width: 100%;
+    height: 100%;
     transform: translate(-50%, -50%);
+    box-sizing: border-box;
 }
 
 buttonhover:hover .border {
-    display: block;
-    /*width: 14em;*/
-    /*height: 3.9em;*/
-    padding: 2em 51%;
+    width: calc(100% + 1.2em);
+    height: calc(100% + 1.2em);
+}
 
+/* Mobile Design */
+@media (max-width: 768px) {
+    buttonhover {
+        display: block;
+        width: 90%;
+        max-width: 300px;
+        margin: 0.75rem auto;
+        font-size: 1.3em;
+        padding: 0.7em 1.5em;
+    }
+
+    .full-rounded {
+        line-height: 3rem;
+    }
+}
+
+@media (max-width: 480px) {
+    buttonhover {
+        font-size: 1.1em;
+        padding: 0.6em 1.2em;
+    }
 }
 
 .full-rounded {
     border-radius: 2em;
-    line-height: 4rem;
 }
 
 .noWrap {

@@ -36,9 +36,9 @@ hero_height: is-large
 </a>
 
 <h2>Fonts</h2>
-<p>We use Rockwell as our team font. Used in all logos, when available.</p>
-<p class="hidden-when-failed" style="color: black; font-family: Rockwell; font-size: 64px;">Rockwell</p>
-<p class="hidden-when-failed" style="color: black; font-family: Rockwell; font-size: 28px;">"The quick brown fox jumps over the lazy dog."</p>
+<p>We use Dongle as our team font. Used in all logos, when available.</p>
+<p class="hidden-when-failed" style="color: black; font-family: Dongle; font-size: 64px;">Dongle</p>
+<p class="hidden-when-failed" style="color: black; font-family: Dongle; font-size: 28px;">"The quick brown fox jumps over the lazy dog."</p>
 <p id="font-message" style="color: red; font-size: 16px;" class="font-message"></p>
 </div>
 
@@ -47,7 +47,7 @@ hero_height: is-large
 <style>
     .font-message {
         color: black;
-        font-family: Rockwell, sans-serif;
+        font-family: Dongle, sans-serif;
         font-size: 28px;
     }
 </style>
@@ -63,13 +63,13 @@ hero_height: is-large
         return originalWidth !== fallbackWidth;
     }
     
-    // Check if Rockwell font is loaded
+    // Check if Dongle font is loaded
     window.onload = function() {
-        if (!isFontLoaded("Rockwell")) {
+        if (!isFontLoaded("Dongle")) {
             var messageElement = document.getElementById("font-message");
-            messageElement.innerHTML = "It appears that you're using a browser that is not compatible with the Rockwell font. This can be caused by an unexpected MIME type and/or an outdated browser. For the best viewing experience please use a different browser.";
+            messageElement.innerHTML = "It appears that you're using a browser that is not compatible with the Dongle font. This can be caused by an unexpected MIME type and/or an outdated browser. For the best viewing experience please use a different browser.";
             
-            // Hide the lines that should only be displayed when Rockwell font is rendered correctly
+            // Hide the lines that should only be displayed when Dongle font is rendered correctly
             var hiddenElements = document.getElementsByClassName("hidden-when-failed");
             for (var i = 0; i < hiddenElements.length; i++) {
                 hiddenElements[i].style.display = "none";

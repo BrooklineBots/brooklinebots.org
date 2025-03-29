@@ -28,13 +28,13 @@ h1 {
     text-align: center;
     color: black;
     font-size: 4em;
-    font-family: "Roboto", "Rockwell", "Montserrat", sans-serif;
+    font-family: "Roboto", "Dongle", "Montserrat", sans-serif;
 }
 h2 {
     text-align: center;
     color: black;
     font-size: 2em;
-    font-family: "Roboto", "Rockwell", "Montserrat", sans-serif;
+    font-family: "Roboto", "Dongle", "Montserrat", sans-serif;
 }
 #chart-wrapper {
     display: inline-block;
