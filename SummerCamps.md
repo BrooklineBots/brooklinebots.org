@@ -141,12 +141,15 @@ Through the academic year we mentor and coach First Lego League Robotics Teams (
 {: style="font-size: 45px; text-align: center; color:#6998cc;"}
 ***
 
-[Register online](https://www.lsnbroncoscamps.com/robotics-and-engineering-camps.cfm) for summer camps before spots fill.
+To attend The Robo Hub Summer Camp, [register here](https://therobohub.com/summer-camp-brookline/#summer-camp-grid) before spots fill.
+<br/> To attend the Penguin Coding School Summer Camp, [register here](https://penguincodingschool.com/summer-coding-stem-robotics-kids-camp-newton-massachusetts) before spots fill.
 {: style="text-align: center; color:grey;"}
+
 
 ## Questions?
 {: style="font-size: 45px; text-align: center; color:#6998cc;"}
 ***
 
-Contact camp director Hillary Griffith for more details at [hillary.griffith@lsr7.net](mailto:hillary.griffith@lsr7.net).
+Contact The Robo Hub for more details [here](https://therobohub.com/contact-us/).
+<br/>Contact Penguin Coding School for more details [here](https://penguincodingschool.com/contact).
 {: style="text-align: center; color:grey;"}
