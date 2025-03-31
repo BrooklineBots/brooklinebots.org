@@ -10,10 +10,95 @@ down_breaks: true
 hero_height: is-medium
 ---
 
+<style>
+.camp-container {
+    display: flex;
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.camp-content {
+    flex: 3; /* Adjust this value to change the width of the text section, ratio to flyer */
+}
+
+.camp-flyer {
+    flex: 2; /* Adjust this value to change the width of the flyer section, ratio to text */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flyer-image {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #6998cc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.download-link {
+    margin-top: 1rem;
+    padding: 0.75rem 1.5rem;
+    background-color: #6998cc;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    transition: background-color 0.3s ease;
+    font-weight: 600;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    display: inline-block;
+
+}
+
+.download-link:hover {
+    background-color: #507ba3;
+}
+
+.flyer-mobile {
+    display: none;
+}
+
+.flyer-desktop {
+    text-align: center;
+    width: 100%; 
+}
+
+@media (max-width: 768px) {
+    .camp-container {
+        flex-direction: column;
+    }
+    
+    .camp-flyer {
+        order: 2;
+    }
+}
+
+@media (max-width: 480px) {
+    .flyer-desktop {
+        display: none;
+    }
+    
+    .flyer-mobile {
+        display: block;
+        text-align: center;
+        margin-top: 1.5rem;
+    }
+    
+    .download-button {
+        display: inline-block;
+        padding: 1rem 2rem;
+        background-color: #6998cc;
+        color: white;
+        text-decoration: none;
+        border-radius: 25px;
+        font-weight: 600;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+}
+</style>
+
 <div class="centered">
     <p>
-
-
 In our camp, we make robotics fun for students ages 7 - 13. Here are some things your child will be able to do:
 
     <br/>• Build and program innovative Lego robots
@@ -29,22 +114,13 @@ In our camp, we make robotics fun for students ages 7 - 13. Here are some things
 </p>
 </div>
 
-[//]: # (<div class="centered">)
-
-[//]: # (    <p style="text-decoration: bold; font-size: 1.25em; color:black;">)
-
-[//]: # (        2025 Summer Camp sign-ups will open in the Spring!)
-
-[//]: # (    </p>)
-
-[//]: # (</div>)
-
-
 ## Penguin Coding School Summer Camp
 {: style="font-size: 45px; text-align: left; color:#6998cc;"}
 ***
-<div style="text-align: left;">
-    <p style="display: inline-block; text-align: left;">
+<div class="camp-container">
+    <div class="camp-content">
+        <div style="text-align: left;">
+<p>
             <b>Age Group:</b> 5-12 year olds.
             <br>
             <b>Dates:</b> June 23, 2025 - August 29, 2025 (Choose any week)
@@ -64,17 +140,27 @@ Through the academic year we mentor and coach First Lego League Robotics Teams (
 <br/>Use coupon code: <b>sumbhs2025</b> to sign up for our Summer Programs.
 <br/>You get <b>$200 OFF</b> plus Brookline High School Robotics teams get a <b>$75 donation for each sign up.</b>
 <br/>Penguin Coding School is collaborating with Brookline High School’s 3 FTC Robotics Teams: BBots, TNT and Cloud 9 by hiring many of their team members to bring you Lego Robotics instructions and fun during the spring and summer.
-        </p>
+</p>
+        </div>
+    </div>
+    <div class="camp-flyer">
+        <div class="flyer-desktop">
+            <img src="../images/SummerCampFlyers/PenguinCodingSchool.png" class="flyer-image">
+            <a href="../images/SummerCampFlyers/PenguinCodingSchool.pdf" download class="download-link">Open Penguin Flyer</a>
+        </div>
+        <div class="flyer-mobile">
+            <a href="../images/SummerCampFlyers/PenguinCodingSchool.pdf" download class="download-button">Open Penguin Flyer</a>
+        </div>
+    </div>
 </div>
-
-[//]: # (&#40;Includes 15 hours of camp, t-shirt, and snacks&#41;.)
 
 ## The Robo Hub Summer Camp
 {: style="font-size: 45px; text-align: left; color:#6998cc;"}
 ***
-
-<div style="text-align: left;">
-            <p style="display: inline-block; text-align: left;">
+<div class="camp-container">
+    <div class="camp-content">
+        <div style="text-align: left;">
+<p style="display: inline-block; text-align: left;">
             <b>Age Group:</b> Rising 1st graders to rising 9th graders.
             <br>
             <b>Dates:</b> July 7th – August 15th (Choose any week)
@@ -130,8 +216,17 @@ Through the academic year we mentor and coach First Lego League Robotics Teams (
 <br/>P.S. Remember to use code <b>BROOKBOTS200</b> at checkout to claim your exclusive $200 discount and support BHS robotics teams!
         </p>
 </div>
-
-[//]: # (&#40;Includes 30 hours of camp, t-shirt, snacks, and lunch on Friday&#41;)
+    </div>
+    <div class="camp-flyer">
+        <div class="flyer-desktop">
+            <img src="../images/SummerCampFlyers/TheRoboHub.png" class="flyer-image">
+            <a href="../images/SummerCampFlyers/TheRoboHub.pdf" download class="download-link">Open Robo Hub Flyer</a>
+        </div>
+        <div class="flyer-mobile">
+            <a href="../images/SummerCampFlyers/TheRoboHub.pdf" download class="download-button">Open Robo Hub Flyer</a>
+        </div>
+    </div>
+</div>
 
 ## Registration
 {: style="font-size: 45px; text-align: center; color:#6998cc;"}
