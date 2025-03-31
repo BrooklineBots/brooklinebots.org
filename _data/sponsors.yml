@@ -9,6 +9,7 @@
       Confetti: true
     - name: AES Corporation
       description: Company Sponsor
+      image: ../images/sponsors/AesCorp.jpg
       profile: https://www.aes.com/
     - name: Amind Solutions
       description: Company Sponsor
@@ -16,6 +17,7 @@
       description: Company Sponsor
     - name: BHS Science Department
       description: School Sponsor
+      profile: https://bhs.brookline.k12.ma.us/science.html
     - name: Board Leaders Inc
       description: Group Sponsor
     - name: The Committee to Elect Tommy Vitolo
@@ -25,8 +27,6 @@
     - name: Elizabeth Shutters
       description: Personal Sponsor
     - name: Rizika Realty Trust
-      description: Company Sponsor
-    - name: The Sweater Guys
       description: Company Sponsor
     - name: Glassman and Associates
       description: Company Sponsor
