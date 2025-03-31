@@ -13,8 +13,6 @@
       profile: https://www.aes.com/
     - name: Amind Solutions
       description: Company Sponsor
-    - name: Apollo Autonomy
-      description: Company Sponsor
     - name: BHS Science Department
       description: School Sponsor
       profile: https://bhs.brookline.k12.ma.us/science.html
@@ -22,6 +20,7 @@
       description: Group Sponsor
     - name: The Committee to Elect Tommy Vitolo
       description: Personal Sponsor
+      profile: https://tommyvitolo.com/
     - name: Eduporium
       description: Company Sponsor
     - name: Elizabeth Shutters
@@ -36,10 +35,10 @@
       description: Company and Personal Sponsor
     - name: Plex systems
       description: Company Sponsor
-    - name: Pop cart
-      description: Company Sponsor
+      profile: https://www.plex.com/
     - name: True Motion
       description: Company Sponsor
+      profile: https://truemotion.run/en?srsltid=AfmBOoqNYLSQa7zpp5VXENN1_jx9I_KzJjGaLon_b6PyZASOGhVCDMZx
     - name: The Rotary Club
       description: Company Sponsor
       image: ../images/sponsors/BrooklineRotary.jpeg
