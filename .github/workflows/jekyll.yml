@@ -4,12 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
-      - qa
+      - Live
   pull_request:
     branches:
-      - master
-      - qa
+      - Live
 
 jobs:
   jekyll:
@@ -41,7 +39,7 @@ jobs:
       run: |
         sudo chown -R $USER:$USER _site
         touch _site/CNAME
-        echo teambroncobots.com >> '_site/CNAME'
+        echo brooklinebots.org >> '_site/CNAME'
         tree _site
       shell: bash
       if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
@@ -58,19 +56,19 @@ jobs:
       run: |
         sudo chown -R $USER:$USER _site
         touch _site/CNAME
-        echo dev.teambroncobots.com >> '_site/CNAME'
+        echo dev.brooklinebots.com >> '_site/CNAME'
         tree _site
       shell: bash
       if: github.ref == 'refs/heads/qa' && github.event_name != 'pull_request'
 
-    - name: Deploy (qa) 🚀
-      uses: milanmk/actions-file-deployer@master
-      with:
-        remote-protocol: 'sftp'
-        remote-host: 'dev.teambroncobots.com'
-        remote-user: 'cecgri'
-        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-        local-path: './_site'
-        remote-path: '/home/cecgri/dev.teambroncobots.com'
-        sync: 'full'
-      if: github.ref == 'refs/heads/qa' && github.event_name != 'pull_request'
+#    - name: Deploy (qa) 🚀
+#      uses: milanmk/actions-file-deployer@master
+#      with:
+#        remote-protocol: 'sftp'
+#        remote-host: 'dev.teambroncobots.com'
+#        remote-user: 'cecgri'
+#        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+#        local-path: './_site'
+#        remote-path: '/home/cecgri/dev.teambroncobots.com'
+#        sync: 'full'
+#      if: github.ref == 'refs/heads/qa' && github.event_name != 'pull_request'
