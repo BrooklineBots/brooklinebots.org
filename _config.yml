@@ -1,12 +1,12 @@
 # Site Settings
 lang: en
-title: Broncobots FRC Team 1987
-tagline: Broncobots website
-email: broncobots@gmail.com
+title: Brookline Bots FRC Team 1987
+tagline: Brookline Bots website
+email: Brookline Bots@gmail.com
 description: >
-  Broncobots webste FRC Team 1987
+  Brookline Bots webste FRC Team 1987
 baseurl: ""
-url: "https://teambroncobots.com/"
+url: "https://teamBrookline Bots.com/"
 permalink: pretty
 #theme_color: '#eeeeee'
 #fixed_navbar: top
@@ -17,7 +17,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: broncobots
+  shortname: Brookline Bots
 
 
 plugins:
@@ -55,7 +55,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "FRC Team 1987 The Broncobots"
+      author: "FRC Team 1987 The Brookline Bots"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true

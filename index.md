@@ -57,7 +57,7 @@ mobile_black_text: true
 
 <div id="missStat" style="display:none">
 <br>
-      The Broncobots are dedicated to helping the future through the recognition and advocacy of science, technology, engineering, and math. As FIRST participants, we strive to build a community devoted to education, innovation, and inspiration. By creating strong partnerships with mentors, teachers, and sponsors, we encourage communication and leadership as crucial parts of team success.  
+      The Brookline Bots are dedicated to helping the future through the recognition and advocacy of science, technology, engineering, and math. As FIRST participants, we strive to build a community devoted to education, innovation, and inspiration. By creating strong partnerships with mentors, teachers, and sponsors, we encourage communication and leadership as crucial parts of team success.  
 </div>
 
 <div id="teamFoc" style="display:none">
@@ -76,7 +76,7 @@ mobile_black_text: true
 <div id="teamHist" style="display:none">
 <br>
   <p>
-     Over the years, the Broncobots have had many significant achievements. We've attended over {{ site.data.home_callouts.items[1].title }} competitions over the years, from Regionals to World Championship. Team 1987 has also competed in Off-Season competitions such as Ozark Mountain Brawl, Lee's Summit's CowTown ThrowDown and Indiana Robotics Invitational (IRI). We haven't kept quiet about what we do either. You can find the Broncobots spreading the message of FIRST within our community by hosting booths at Missouri State Fair, Lee's Summit's Downtown Days, Oktoberfest, Kansas City Maker Faire, School Registration day, Freshmen Transition Day and You Belong Club event. The team has been featured in countless newspaper articles, been on TV, and have had two robots written about and published in two books. We've also initiated letter campaigns, media broadcasts, toiletry drives for a Domestic Abuse shelter, and much more. Team 1987, The Broncobots has accomplished much since our founding year.
+     Over the years, the Brookline Bots have had many significant achievements. We've attended over {{ site.data.home_callouts.items[1].title }} competitions over the years, from Regionals to World Championship. Team 1987 has also competed in Off-Season competitions such as Ozark Mountain Brawl, Lee's Summit's CowTown ThrowDown and Indiana Robotics Invitational (IRI). We haven't kept quiet about what we do either. You can find the Brookline Bots spreading the message of FIRST within our community by hosting booths at Missouri State Fair, Lee's Summit's Downtown Days, Oktoberfest, Kansas City Maker Faire, School Registration day, Freshmen Transition Day and You Belong Club event. The team has been featured in countless newspaper articles, been on TV, and have had two robots written about and published in two books. We've also initiated letter campaigns, media broadcasts, toiletry drives for a Domestic Abuse shelter, and much more. Team 1987, The Brookline Bots has accomplished much since our founding year.
   </p>
 </div>
 

@@ -24,7 +24,7 @@ hero_height: is-large
 <a href="../images/Assets/Branding/HighResBroncobotLogo.png" download>
     <img width="300px" src="../images/Assets/Branding/HighResBroncobotLogo.png" alt="../images/NoImage.png">
 </a>
-<p>Completing the set we have the original Broncobots logo. In its original quality, to be used when the logo is smaller scaled or when the only feasable option.</p>
+<p>Completing the set we have the original Brookline Bots logo. In its original quality, to be used when the logo is smaller scaled or when the only feasable option.</p>
 <a href="../images/Assets/Branding/OfficialBroncobotLogo.png" download>
     <img width="300px" src="../images/Assets/Branding/OfficialBroncobotLogo.png" alt="../images/NoImage.png">
 </a>

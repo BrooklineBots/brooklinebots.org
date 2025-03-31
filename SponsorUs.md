@@ -52,7 +52,7 @@ down_breaks: false
             <p>301 NE Tudor Rd.</p>
             <p>Lee’s Summit, MO  64086</p>
             <br>
-            <p>Be sure to write LSN Broncobots on the memo line of your check so the donation can go to our team.</p>
+            <p>Be sure to write LSN Brookline Bots on the memo line of your check so the donation can go to our team.</p>
             <br>
             <p>This can also be done online at <a href="https://www.lsedfoundation.org/">https://www.lsedfoundation.org/</a>. Again, be sure to choose the Lee’s Summit North Robotics Team as the location of your donation.</p>
             <br>

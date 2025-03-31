@@ -1,19 +1,19 @@
 - name: Facebook
-  link: http://www.facebook.com/pages/The-Broncobots-Team-1987/140870239300622
+  link: http://www.facebook.com/pages/The-Brookline Bots-Team-1987/140870239300622
   icon: fa-facebook
   company: true
 - name: Twitter
-  link: http://www.twitter.com/Broncobots1987
+  link: http://www.twitter.com/Brookline Bots1987
   icon: fa-x-twitter
   company: true
 - name: Mail
-  link: mailto:broncobots@gmail.com
+  link: mailto:Brookline Bots@gmail.com
   icon: fa-inbox
 - name: Instragram
   link: https://www.instagram.com/brooklinebots/
   icon: fa-instagram
   company: true
 - name: YouTube
-  link: http://www.youtube.com/user/Broncobots1987
+  link: http://www.youtube.com/user/Brookline Bots1987
   icon: fa-youtube
   company: true

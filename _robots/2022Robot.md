@@ -11,7 +11,7 @@ GameVideo: HsitvZ0JaDc
 features:
     - label: Two time regional winners
       icon: fa-certificate
-    - label: First Broncobots swerve drive robot
+    - label: First Brookline Bots swerve drive robot
       icon: fa-robot
     - label: ~95% high goal shooting accuracy
       icon: fa-crosshairs

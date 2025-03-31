@@ -1,6 +1,6 @@
 ---
 layout: videos
-title: Broncobots Videos
+title: Brookline Bots Videos
 subtitle: Robots and stuff
 videos: videos 
 show_sidebar: false
