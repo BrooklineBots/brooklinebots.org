@@ -2,6 +2,11 @@
   size: small
   description: |-
   sponsors:
+    - name: EXAMPLE
+      image: ../images/2024TeamPic.jpg
+      description: The Gene Haas Foundation donates millions of dollars every year to manufacturing education and the community. In 2020, the Gene Haas Foundation provided more than $20 million in grants, bringing the total since inception to more than to $120 million.
+      profile: https://ghaasfoundation.org/
+      Confetti: true
     - name: AES Corporation
       description: Company Sponsor
       profile: https://www.aes.com/
