@@ -21,8 +21,10 @@
     - name: The Committee to Elect Tommy Vitolo
       description: Personal Sponsor
       profile: https://tommyvitolo.com/
+      image: ../images/sponsors/TommyVitolo.png
     - name: Eduporium
       description: Company Sponsor
+      profile: https://www.eduporium.com/
     - name: Elizabeth Shutters
       description: Personal Sponsor
     - name: Rizika Realty Trust
