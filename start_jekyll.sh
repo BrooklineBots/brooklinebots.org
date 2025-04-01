@@ -1,13 +1,10 @@
 #!/bin/bash
 
-# Detect OS
-OS="$(uname -s)"
-
 # Define the default directory
 TARGET_DIR="$HOME/Documents/GitHub/brooklinerobotics.org"
 
-# Function to search for the directory on macOS
-find_directory_mac() {
+# Function to search for the directory
+find_directory() {
     echo "Searching for 'brooklinerobotics.org'..."
     FOUND_DIR=$(mdfind -onlyin "$HOME" "kMDItemFSName == 'brooklinerobotics.org'" | head -n 1)
     if [ -z "$FOUND_DIR" ]; then
@@ -18,24 +15,9 @@ find_directory_mac() {
     TARGET_DIR="$FOUND_DIR"
 }
 
-# Set OS-specific commands
-if [ "$OS" == "Darwin" ]; then
-    echo "Running on macOS..."
-    if [ ! -d "$TARGET_DIR" ]; then
-        find_directory_mac
-    fi
-    OPEN_CMD="open"
-elif [[ "$OS" == MINGW* || "$OS" == CYGWIN* || "$OS" == MSYS* ]]; then
-    echo "Running on Windows..."
-    TARGET_DIR="$USERPROFILE\\Documents\\GitHub\\brooklinerobotics.org"
-    if [ ! -d "$TARGET_DIR" ]; then
-        echo "Directory 'brooklinerobotics.org' not found. Exiting."
-        exit 1
-    fi
-    OPEN_CMD="start"
-else
-    echo "Unsupported OS: $OS"
-    exit 1
+# Check if the target directory exists
+if [ ! -d "$TARGET_DIR" ]; then
+    find_directory
 fi
 
 # Navigate to the project directory
@@ -47,13 +29,8 @@ rm -rf _site .jekyll-cache
 echo "Updating repository..."
 git pull
 
-# Set up Ruby environment
-if [ "$OS" == "Darwin" ]; then
-    echo "Setting Ruby version on macOS..."
-    chruby ruby-3.4.1
-else
-    echo "Ensure Ruby 3.4.1 is installed and active on Windows."
-fi
+echo "Setting Ruby version..."
+chruby ruby-3.4.1
 
 echo "Installing Ruby dependencies..."
 bundle install
@@ -69,7 +46,7 @@ JEKYLL_PID=$!
 sleep 3
 
 echo "Opening site in default browser..."
-$OPEN_CMD http://127.0.0.1:4000/
+open http://127.0.0.1:4000/
 
 echo "Done! Press any key to exit and stop Jekyll."
 read -n 1 -s
