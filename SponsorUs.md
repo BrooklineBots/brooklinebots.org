@@ -46,15 +46,15 @@ down_breaks: false
 <body>
     <div class="row">
         <div class="column" style="background-color:white;">
-            <p>Donations of any amount are greatly appreciated. Your contribution is tax deductible. If you would like to write a check,  it should be written to LSEF and mailed to: </p>
+            <p>Donations of any amount are greatly appreciated. Your contribution is tax deductible. If you would like to write a check,  it should be written to Brookline Robotics Initiative and mailed to: </p>
             <br>
-            <p>Lee’s Summit Educational Foundation</p>
-            <p>301 NE Tudor Rd.</p>
-            <p>Lee’s Summit, MO  64086</p>
+            <p>Adam W. Rizila</p>
+            <p>267 Eliot St</p>
+            <p>Chestnut Hill, MA  02467</p>
             <br>
             <p>Be sure to write LSN Brookline Bots on the memo line of your check so the donation can go to our team.</p>
             <br>
-            <p>This can also be done online at <a href="https://www.lsedfoundation.org/">https://www.lsedfoundation.org/</a>. Again, be sure to choose the Lee’s Summit North Robotics Team as the location of your donation.</p>
+            <p>This can also be done online at "brooklinerobotics.org" </p>
             <br>
             <p>Online donations are additionally available to the right, simply follow the instructions below.</p>
             <br>
