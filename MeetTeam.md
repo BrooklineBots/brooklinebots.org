@@ -8,7 +8,55 @@ hero_image: ../images/camps.png
 down_breaks: true
 [//]: # (hero_darken: true)
 hero_height: is-medium
-teamGallery: MeetTeam
+team: team
 ---
+
+<main>
+    <h1>Our Members</h1>
+    <div>
+        {% for member in site.data.team.team %}
+        <div>
+            <h5>{{member.name}} {{member.year}}</h5>
+        </div>
+        {% endfor %}
+        <div id="button-wrapper">
+            <a href="/alumni" class="button">View our alumni</a>
+        </div>
+    </div>
+</main>
+
+[//]: # (<main>)
+
+[//]: # (    <h1>Our Members</h1>)
+
+[//]: # (    <div>)
+
+[//]: # (        {% for member in site.data.team.team %})
+
+[//]: # (        <div>)
+
+[//]: # (            <img src="{{ member.image }}">)
+
+[//]: # (            <p class="label">{{ member.role }}</p>)
+
+[//]: # (            <h5>{{ member.name }} {{ member.year }}</h5>)
+
+[//]: # (            <p>{{ member.bio }}</p>)
+
+[//]: # (        </div>)
+
+[//]: # (        {% endfor %})
+
+[//]: # (        <div id="button-wrapper">)
+
+[//]: # (            <a href="/alumni" class="button">View our alumni</a>)
+
+[//]: # (        </div>)
+
+[//]: # (    </div>)
+
+[//]: # (</main>)
+
+    
 
 
