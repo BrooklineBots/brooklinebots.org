@@ -1,0 +1,25 @@
+{% if page.teamGallery %}
+<div class="columns is-multiline">
+    {% assign teamGallery=site.data.[page.teamGallery] %}
+    {% for teamGallery in teamGallery %}
+
+<!--    <div class="column is-12">-->
+        <div class="column is-6-desktop is-12-tablet">
+            <div class="card">
+                <div class="card-content">
+                    <div class="content">
+                        <p class="title is-4 has-text-centered">{{ teamGallery.Year }}</p>
+                        {% for MeetTeam in teamGallery.MeetTeam %}
+                            {{ MeetTeam.MeetTeam }}
+                        <br>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    {% endfor %}
+</div>
+{% endif %}
+

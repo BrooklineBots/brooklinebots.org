@@ -8,6 +8,7 @@ hero_image: ../images/camps.png
 down_breaks: true
 [//]: # (hero_darken: true)
 hero_height: is-medium
+teamGallery: MeetTeam
 ---
 
 
