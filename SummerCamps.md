@@ -6,7 +6,7 @@ description: Brookline Robotics Initiative Summer Camps
 show_sidebar: false
 hero_image: ../images/Camp.png
 down_breaks: true
-[//]: # (hero_darken: true)
+hero_darken: true
 hero_height: is-medium
 ---
 
