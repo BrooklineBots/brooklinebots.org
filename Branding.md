@@ -8,7 +8,7 @@ hero_darken: true
 hero_height: is-large
 --- 
 <div class="full" style="text-align: center">
-<p>Branding is a vital and crucial part of Team 1987. Below you can find our standards in branding.</p>
+<p>Branding is a vital and crucial part of Team 17218. Below you can find our standards in branding.</p>
 
 <h2><center>Logo</center></h2>
 
