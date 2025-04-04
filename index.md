@@ -47,7 +47,7 @@ mobile_black_text: true
 
 <div class="zoom"></div> 
 
-<h2 style="color:#6998cc; text-align:center; font-family:Dongle, Roboto, sans-serif; font-size: 500%">About us</h2>
+<h2 style="color:#5777a8; text-align:center; font-family:Dongle, Roboto, sans-serif; font-size: 500%">About us</h2>
 
 <div style="text-align: center;font-family:Dongle, Roboto, sans-serif; font-size: 150%;">
 <buttonhover class="noWrap full-rounded" onclick="teamFocus()"><span class="noWrap">Team Focus</span><div class="border full-rounded"></div></buttonhover>

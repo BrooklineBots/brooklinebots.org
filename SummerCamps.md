@@ -31,7 +31,7 @@ hero_height: is-medium
 .flyer-image {
     max-width: 100%;
     height: auto;
-    border: 2px solid #6998cc;
+    border: 2px solid #5777a8;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
@@ -39,7 +39,7 @@ hero_height: is-medium
 .download-link {
     margin-top: 1rem;
     padding: 0.75rem 1.5rem;
-    background-color: #6998cc;
+    background-color: #5777a8;
     color: white;
     text-decoration: none;
     border-radius: 25px;
@@ -87,7 +87,7 @@ hero_height: is-medium
     .download-button {
         display: inline-block;
         padding: 1rem 2rem;
-        background-color: #6998cc;
+        background-color: #5777a8;
         color: white;
         text-decoration: none;
         border-radius: 25px;
@@ -117,7 +117,7 @@ The buttons below will send you to a PDF of a flyer with information for both th
 </div>
 
 ## Penguin Coding School Summer Camp
-{: style="font-size: 45px; text-align: left; color:#6998cc;"}
+{: style="font-size: 45px; text-align: left; color:#5777a8;"}
 ***
 <div class="camp-container">
     <div class="camp-content">
@@ -182,7 +182,7 @@ The buttons below will send you to a PDF of a flyer with information for both th
 </div>
 
 ## The Robo Hub Summer Camp
-{: style="font-size: 45px; text-align: left; color:#6998cc;"}
+{: style="font-size: 45px; text-align: left; color:#5777a8;"}
 ***
 <div class="camp-container">
     <div class="camp-content">
@@ -283,7 +283,7 @@ The buttons below will send you to a PDF of a flyer with information for both th
 </div>
 
 ## Registration
-{: style="font-size: 45px; text-align: center; color:#6998cc;"}
+{: style="font-size: 45px; text-align: center; color:#5777a8;"}
 ***
 
 To attend The Robo Hub Summer Camp, [register here](https://therobohub.com/summer-camp-brookline/#summer-camp-grid) before spots fill.
@@ -292,7 +292,7 @@ To attend The Robo Hub Summer Camp, [register here](https://therobohub.com/summe
 
 
 ## Questions?
-{: style="font-size: 45px; text-align: center; color:#6998cc;"}
+{: style="font-size: 45px; text-align: center; color:#5777a8;"}
 ***
 
 Contact The Robo Hub for more details [here](https://therobohub.com/contact-us/).
