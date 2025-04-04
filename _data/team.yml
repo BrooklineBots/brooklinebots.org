@@ -6,8 +6,71 @@ team:
     image: "/images/team/mya-taheri.png"
     bio: "Mya is a fourth-year programmer and team captain."
 
+  - name: "Sophia Heinrich"
+    year: "'25"
+    role: "🖥️ Programming Lead 🖥️"
+    image: "/images/team/ben-berol.png"
+    bio: "Ben is a fourth-year programmer."
+
+  - name: "Ananya Rajaraman"
+    year: "'27"
+    role: "🖥️ Programming Lead 🖥️"
+    image: "/images/team/ben-berol.png"
+    bio: "Ben is a fourth-year programmer."
+
   - name: "Sophia Berol"
     year: "'25"
     role: "🖥️ Programming Lead 🖥️"
     image: "/images/team/ben-berol.png"
     bio: "Ben is a fourth-year programmer."
+
+  - name: "Sophia Berol"
+    year: "'25"
+    role: "🖥️ Programming Lead 🖥️"
+    image: "/images/team/ben-berol.png"
+    bio: "Ben is a fourth-year programmer."
+
+  - name: "Sophia Berol"
+    year: "'25"
+    role: "🖥️ Programming Lead 🖥️"
+    image: "/images/team/ben-berol.png"
+    bio: "Ben is a fourth-year programmer."
+
+  - name: "Sophia Berol"
+    year: "'25"
+    role: "🖥️ Programming Lead 🖥️"
+    image: "/images/team/ben-berol.png"
+    bio: "Ben is a fourth-year programmer."
+
+  - name: "Sophia Berol"
+    year: "'25"
+    role: "🖥️ Programming Lead 🖥️"
+    image: "/images/team/ben-berol.png"
+    bio: "Ben is a fourth-year programmer."
+
+  - name: "Sophia Berol"
+    year: "'25"
+    role: "🖥️ Programming Lead 🖥️"
+    image: "/images/team/ben-berol.png"
+    bio: "Ben is a fourth-year programmer."
+
+  - name: "Sophia Berol"
+    year: "'25"
+    role: "🖥️ Programming Lead 🖥️"
+    image: "/images/team/ben-berol.png"
+    bio: "Ben is a fourth-year programmer."
+
+  - name: "Sophia Berol"
+    year: "'25"
+    role: "🖥️ Programming Lead 🖥️"
+    image: "/images/team/ben-berol.png"
+    bio: "Ben is a fourth-year programmer."
+
+  - name: "Sophia Berol"
+  year: "'25"
+  role: "🖥️ Programming Lead 🖥️"
+  image: "/images/team/ben-berol.png"
+  bio: "Ben is a fourth-year programmer."
+
+
+
