@@ -1,6 +1,6 @@
 ---
 title: Sponsor us
-subtitle: We apreciate any and every donation torwards our team! </h4>
+subtitle: We apreciate any and every donation torwards our team!
 layout: default
 show_sidebar: false
 hero_image: ../images/SponsorUs.jpg
