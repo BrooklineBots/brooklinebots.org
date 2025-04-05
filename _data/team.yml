@@ -1,12 +1,12 @@
 - tier_name: Team Members
   size: small
-  description: |-
+  description: ""
   members:
-    - name: "Lila Cannon"
-      year: "'26"
-      role: "☆️ Team Captain ☆️"
+    - name: Lila Cannon
+      year: 26
+      role: ☆️ Team Captain ☆️
       image: ../images/TeamMembers/websiteTestImage1.jpg
-      bio: "Lila is a fourth-year member and team captain."
+      bio: Lila is a fourth-year member and team captain.
     - name: "Sophia Heinrich"
       year: "'25"
       role: "☆️ Team Captain ☆️"

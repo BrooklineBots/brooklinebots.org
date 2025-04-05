@@ -9,7 +9,6 @@ down_breaks: true
 [//]: # (hero_darken: true)
 hero_height: is-medium
 team: team
-
 ---
 
 
