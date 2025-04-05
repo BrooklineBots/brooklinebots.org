@@ -2,7 +2,7 @@
 layout: resources
 title: Helpful Links 
 subtitle: Technical Resources
-description: Broncobots Helpful Links 
+description: Brookline Bots Helpful Links 
 show_sidebar: false
 hero_image: ../images/HelpfullLinks.jpg
 hero_darken: false

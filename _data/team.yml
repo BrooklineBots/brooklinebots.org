@@ -1,0 +1,16 @@
+team:
+  # Captains
+  - name: "Lila Cannon"
+    year: "'26"
+    role: "☆️ Team Captain ☆️"
+#    image: "/images/team/mya-taheri.png"
+    bio: "Lila is a fourth-year member and team captain."
+
+  - name: "Sophia Heinrich"
+    year: "'25"
+    role: "☆️ Team Captain ☆️"
+#    image: "/images/team/ben-berol.png"
+    bio: "Sophia is a third-year member and team captain."
+
+  # Team Members
+  - name: ""

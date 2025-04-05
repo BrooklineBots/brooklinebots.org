@@ -8,7 +8,7 @@ hero_darken: true
 hero_height: is-large
 --- 
 <div class="full" style="text-align: center">
-<p>Branding is a vital and crucial part of Team 1987. Below you can find our standards in branding.</p>
+<p>Branding is a vital and crucial part of Team 17218. Below you can find our standards in branding.</p>
 
 <h2><center>Logo</center></h2>
 
@@ -24,7 +24,7 @@ hero_height: is-large
 <a href="../images/Assets/Branding/HighResBroncobotLogo.png" download>
     <img width="300px" src="../images/Assets/Branding/HighResBroncobotLogo.png" alt="../images/NoImage.png">
 </a>
-<p>Completing the set we have the original Broncobots logo. In its original quality, to be used when the logo is smaller scaled or when the only feasable option.</p>
+<p>Completing the set we have the original Brookline Bots logo. In its original quality, to be used when the logo is smaller scaled or when the only feasable option.</p>
 <a href="../images/Assets/Branding/OfficialBroncobotLogo.png" download>
     <img width="300px" src="../images/Assets/Branding/OfficialBroncobotLogo.png" alt="../images/NoImage.png">
 </a>

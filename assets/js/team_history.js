@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const teamHistory = document.querySelector('#team-history');
     const events = teamHistory.querySelectorAll('.event');
 
-    const colors = ['#6998cc', '#ACACAC', '#111010', '#D90000'];
+    const colors = ['#5777a8', '#ACACAC', '#111010', '#D90000'];
 
     // Precompute colors and store them in an array for each event
     for (let i = 0; i < events.length; i++) {
