@@ -3,63 +3,63 @@
   description: ""
   members:
     - name: Lila Cannon
-      year: 26
+      year: 2026
       role: ☆️ Team Captain ☆️
       image: ../images/TeamMembers/websiteTestImage1.jpg
       bio: Lila is a fourth-year member and team captain.
-    - name: "Sophia Heinrich"
-      year: "'25"
-      role: "☆️ Team Captain ☆️"
-      bio: "Sophia is a third-year member and team captain."
-    - name: "Brielle Hwang"
-      year: "'28"
-      role: "Team Member"
-      bio: "Brielle is a second-year member."
-    - name: "Ananya Rajaraman"
-      year: "'27"
-      role: "Team Member"
-      bio: "Ananya is a second-year member."
-    - name: "Ellie Linas"
-      year: "'25"
-      role: "Team Member"
-      bio: "Ellie is a fourth-year member."
-    - name: "Isabel Oldham"
-      year: "'28"
-      role: "Team Member"
-      bio: "Isabel is a third-year member."
-    - name: "Lauren Fisch"
-      year: "'25"
-      role: "Team Member"
-      bio: "Lauren is a second-year member."
-    - name: "Ariel Ben-Asher"
-      year: "'28"
-      role: "Team Member"
-      bio: "Ariel is a first-year member."
-    - name: "Yael Shapiro"
-      year: "'27"
-      role: "Team Member"
-      bio: "Yael is a first-year member."
-    - name: "Sophie Isla Farago"
-      year: "'28"
-      role: "Team Member"
-      bio: "Sophie is a first-year member."
-    - name: "Lily Burke"
-      year: "'28"
-      role: "Team Member"
-      bio: "Lily is a first-year member."
-    - name: "Hailey Silk"
-      year: "'28"
-      role: "Team Member"
-      bio: "Hailey is a first-year member."
-    - name: "Callie Wu"
-      year: "'26"
-      role: "Team Member"
-      bio: "Callie is a first-year member."
-    - name: "Sofi Ugalde"
-      year: "'27"
-      role: "Team Member"
-      bio: "Sofi is a first-year member."
-    - name: "Talia Hsieh"
-      year: "'28"
-      role: "Team Member"
-      bio: "Talia is a first-year member."
+    - name: Sophia Heinrich
+      year: 2025
+      role: ☆️ Team Captain ☆️
+      bio: Sophia is a third-year member and team captain.
+    - name: Brielle Hwang
+      year: 2028
+      role: Team Member
+      bio: Brielle is a second-year member.
+    - name: Ananya Rajaraman
+      year: 2027
+      role: Team Member
+      bio: Ananya is a second-year member.
+    - name: Ellie Linas
+      year: 2025
+      role: Team Member
+      bio: Ellie is a fourth-year member.
+    - name: Isabel Oldham
+      year: 2028
+      role: Team Member
+      bio: Isabel is a third-year member.
+    - name: Lauren Fisch
+      year: 2025
+      role: Team Member
+      bio: Lauren is a second-year member.
+    - name: Ariel Ben-Asher
+      year: 2028
+      role: Team Member
+      bio: Ariel is a first-year member.
+    - name: Yael Shapiro
+      year: 2027
+      role: Team Member
+      bio: Yael is a first-year member.
+    - name: Sophie Isla Farago
+      year: 2028
+      role: Team Member
+      bio: Sophie is a first-year member.
+    - name: Lily Burke
+      year: 2028
+      role: Team Member
+      bio: Lily is a first-year member.
+    - name: Hailey Silk
+      year: 2028
+      role: Team Member
+      bio: Hailey is a first-year member.
+    - name: Callie Wu
+      year: 2026
+      role: Team Member
+      bio: Callie is a first-year member.
+    - name: Sofi Ugalde
+      year: 2027
+      role: Team Member
+      bio: Sofi is a first-year member.
+    - name: Talia Hsieh
+      year: 2028
+      role: Team Member
+      bio: Talia is a first-year member.
