@@ -1,5 +1,5 @@
 ---
-title: Brookline Robotics Initiative
+title: Brookline Bots
 subtitle: FTC Team 17218
 layout: page
 callouts: home_callouts
