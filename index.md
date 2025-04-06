@@ -8,7 +8,7 @@ show_sidebar: false
 hero_image: images/websiteTestImage.jpg
 hero_darken: true
 hero_height: is-large
-mobile_black_text: true
+#mobile_black_text: true
 ---
 <link rel="stylesheet" href="/assets/css/buttonHover.css">
 
