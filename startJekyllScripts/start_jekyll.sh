@@ -1,14 +1,14 @@
 #!/bin/bash
 
 # Define the default directory
-TARGET_DIR="$HOME/Documents/GitHub/brooklinerobotics.org"
+TARGET_DIR="$HOME/Documents/GitHub/brooklinebots.org"
 
 # Function to search for the directory
 find_directory() {
     echo "Searching for 'brooklinerobotics.org'..."
-    FOUND_DIR=$(mdfind -onlyin "$HOME" "kMDItemFSName == 'brooklinerobotics.org'" | head -n 1)
+    FOUND_DIR=$(mdfind -onlyin "$HOME" "kMDItemFSName == 'brooklinebots.org'" | head -n 1)
     if [ -z "$FOUND_DIR" ]; then
-        echo "Directory 'brooklinerobotics.org' not found. Exiting."
+        echo "Directory 'brooklinebots.org' not found. Exiting."
         exit 1
     fi
     echo "Found: $FOUND_DIR"

@@ -1,10 +1,10 @@
 # PowerShell script for Windows
 
-$TARGET_DIR = "$env:USERPROFILE\Documents\GitHub\brooklinerobotics.org"
+$TARGET_DIR = "$env:USERPROFILE\Documents\GitHub\brooklinebots.org"
 
 # Check if directory exists, otherwise exit
 if (!(Test-Path $TARGET_DIR)) {
-    Write-Host "Directory 'brooklinerobotics.org' not found. Exiting."
+    Write-Host "Directory 'brooklinebots.org' not found. Exiting."
     exit 1
 }
 
