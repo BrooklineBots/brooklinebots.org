@@ -1,0 +1,43 @@
+{% if page.mentors %}
+{% assign tiers=site.data.[page.mentors] %}
+<div class="columns is-multiline">
+    {% for tier in tiers %}
+    <div class="column is-12">
+        <p class="title is-3 has-text-centered">
+            <span>{{ tier.tier_name }}</span>
+        </p>
+        <div class="columns is-centered">
+            <div class="column is-6 content has-text-centered">
+                <p>{{ tier.description | markdownify }}</p>
+            </div>
+        </div>
+
+        <div class="columns is-multiline is-centered">
+            {% for member in tier.members %}
+            <div class="column {% if tier.size == 'large' %} is-4-desktop is-6-tablet {% else %} is-3-desktop is-4-tablet {% endif %}">
+                <div class="box has-text-centered">
+                    <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
+
+                        {{ member.name }}
+
+                    </p>
+                    {% if member.image %}
+                    <img src= {{ member.image }} alt=" ">
+                    {% else %}
+                    &nbsp;
+                    {% endif %}
+                    <p class="subtitle is-6">
+                    <p>{{ member.bio }}</p>
+
+                    </p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="column is-12">
+        <hr />
+    </div>
+    {% endfor %}
+</div>
+{% endif %}
