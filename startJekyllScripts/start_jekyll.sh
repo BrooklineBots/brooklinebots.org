@@ -39,7 +39,7 @@ echo "Installing Bulma via npm..."
 npm install bulma
 
 echo "Starting Jekyll server..."
-bundle exec jekyll serve --incremental &
+bundle exec jekyll serve --livereload --incremental --disable-disk-cache -w &
 JEKYLL_PID=$!
 
 echo "Done! Press any key to exit and stop Jekyll."
