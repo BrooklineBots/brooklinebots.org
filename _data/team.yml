@@ -2,64 +2,135 @@
   size: small
   description: |-
   members:
+    #Captains
     - name: "Lila Cannon"
       year: "'26"
       role: "☆️ Team Captain ☆️"
-      image: ../images/TeamMembers/websiteTestImage1.jpg
+      image: ../images/TeamMembers/Lila.jpg
       bio: "Lila is a fourth-year member and team captain."
+
     - name: "Sophia Heinrich"
       year: "'25"
       role: "☆️ Team Captain ☆️"
+      image: ../images/TeamMembers/websiteTestImage1.jpg
       bio: "Sophia is a third-year member and team captain."
-    - name: "Brielle Hwang"
-      year: "'28"
-      role: "Team Member"
-      bio: "Brielle is a second-year member."
+
+    - name: "Callie Wu"
+      year: "'26"
+      role: "☆️ Team Captain ☆️"
+      image: ../images/TeamMembers/Callie.jpg
+      bio: "Callie is a first-year member and next season's team captain."
+
     - name: "Ananya Rajaraman"
       year: "'27"
-      role: "Team Member"
-      bio: "Ananya is a second-year member."
+      role: "☆️ Team Captain ☆️"
+      image: ../images/TeamMembers/Ananya.jpg
+      bio: "Ananya is a second-year member and next season's team captain."
+
+    #Seniors
     - name: "Ellie Linas"
       year: "'25"
       role: "Team Member"
+      image: ../images/TeamMembers/websiteTestImage1.jpg
       bio: "Ellie is a fourth-year member."
+
     - name: "Isabel Oldham"
-      year: "'28"
+      year: "'25"
       role: "Team Member"
+      image: ../images/TeamMembers/websiteTestImage1.jpg
       bio: "Isabel is a third-year member."
+
     - name: "Lauren Fisch"
       year: "'25"
       role: "Team Member"
+      image: ../images/TeamMembers/websiteTestImage1.jpg
       bio: "Lauren is a second-year member."
-    - name: "Ariel Ben-Asher"
-      year: "'28"
+
+    - name: "Alina Samarasan"
+      year: "'25"
       role: "Team Member"
-      bio: "Ariel is a first-year member."
+      image: ../images/TeamMembers/websiteTestImage1.jpg
+      bio: "Alina is a third-year member."
+
+    #Sophmores
     - name: "Yael Shapiro"
       year: "'27"
       role: "Team Member"
+      image: ../images/TeamMembers/websiteTestImage1.jpg
       bio: "Yael is a first-year member."
-    - name: "Sophie Isla Farago"
-      year: "'28"
-      role: "Team Member"
-      bio: "Sophie is a first-year member."
-    - name: "Lily Burke"
-      year: "'28"
-      role: "Team Member"
-      bio: "Lily is a first-year member."
-    - name: "Hailey Silk"
-      year: "'28"
-      role: "Team Member"
-      bio: "Hailey is a first-year member."
-    - name: "Callie Wu"
-      year: "'26"
-      role: "Team Member"
-      bio: "Callie is a first-year member."
-    - name: "Sofi Ugalde"
-      year: "'27"
-      role: "Team Member"
-      bio: "Sofi is a first-year member."
+
     - name: "Talia Hsieh"
       year: "'28"
       role: "Team Member"
+      image: ../images/TeamMembers/Talia.jpg
       bio: "Talia is a first-year member."
+
+    - name: "Sofi Ugalde"
+      year: "'27"
+      role: "Team Member"
+      image: ../images/TeamMembers/websiteTestImage1.jpg
+      bio: "Sofi is a first-year member."
+
+    #Freshman
+    - name: "Brielle Hwang"
+      year: "'28"
+      role: "Team Member"
+      image: ../images/TeamMembers/Brielle.jpg
+      bio: "Brielle is a second-year member."
+
+    - name: "Ariel Ben-Asher"
+      year: "'28"
+      role: "Team Member"
+      image: ../images/TeamMembers/Ariel.jpg
+      bio: "Ariel is a first-year member."
+
+    - name: "Sophie Isla Farago"
+      year: "'28"
+      role: "Team Member"
+      image: ../images/TeamMembers/Sophie.jpg
+      bio: "Sophie is a first-year member."
+
+    - name: "Lily Burke"
+      year: "'28"
+      role: "Team Member"
+      image: ../images/TeamMembers/Lily.jpg
+      bio: "Lily is a first-year member."
+
+    - name: "Hailey Silk"
+      year: "'28"
+      role: "Team Member"
+      image: ../images/TeamMembers/Hailey.jpg
+      bio: "Hailey is a first-year member."
+
+- tier_name: Mentors and Coaches
+  size: small
+  description: |-
+  members:
+    - name: "Adam Rizika"
+      role: "Head Coach"
+      image: ../images/TeamMembers/Adam.jpg
+      bio: "Adam Rizika guides us through general team management skills and helps us troubleshoot any problems in the competition. He has been an invaluable resource for the past 6 years. He also lets us use his space to work during off-season."
+    - name: "Matthew Allen"
+      role: "Technical Mentor"
+      image: ../images/TeamMembers/Matthew.jpg
+      bio: "Matthew advises our programmers and is a student at Boston University. As an alumni of FIRST, he can also give us general recommendations."
+    - name: "Aubrey Love"
+      role: "CAD & Manufacturing Mentor"
+      image: ../images/Mentors/AubreyLove.png
+      bio: "Mr. Love helps us overcome problems related to Fusion 360 and CAD. Additionally, he allows us to use his machines to manufacture custom adaption pieces for our robot."
+    - name: "Michelle McGlone"
+      role: "Camp Advisor"
+      image: ../images/Mentors/MichelleMcGone.png
+      bio: "Michelle from Brookline Adult and Community Education advises us on how to run a great camp."
+    - name: "Britt Stevens"
+      role: "Mentor"
+      image: ../images/Mentors/BrittStevens.png
+      bio: "Britt Stevens advises us on how to work within the BHS system to get resources from both the school and the town of Brookline."
+    - name: "Daniel Shapiro"
+      role: "Technical Software Mentor"
+      image: ../images/Mentors/DanielShapiro.png
+      bio: "Daniel has a background in computer science and has recently joined our mentorship team. He has helped us problem solve issues with our vision detection and other coding related problems."
+    - name: "Ed Weiser"
+      role: "Build Advisor"
+      image: ../images/Mentors/EdWiser.png
+      bio: "Mr. Weiser is a teacher at Brookline High School and advises us on building, especially in his robotics class."
