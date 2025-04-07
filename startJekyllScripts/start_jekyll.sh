@@ -42,12 +42,6 @@ echo "Starting Jekyll server..."
 bundle exec jekyll serve --incremental &
 JEKYLL_PID=$!
 
-# Wait for server startup (adjust timing if needed)
-sleep 3
-
-echo "Opening site in default browser..."
-open http://127.0.0.1:4000/
-
 echo "Done! Press any key to exit and stop Jekyll."
 read -n 1 -s
 
