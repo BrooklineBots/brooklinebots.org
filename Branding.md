@@ -3,7 +3,7 @@ layout: page
 title: Branding
 subtitle: Our Team Identity
 show_sidebar: false
-hero_image: ../images/Assets/Branding/HighResBroncobotLogo.png
+hero_image: ../images/LogoCollage.jpg
 hero_darken: true 
 hero_height: is-large
 --- 
