@@ -5,7 +5,7 @@ layout: page
 callouts: home_callouts
 show_sidebar: false
 [//]: # (If true, then post page appears)
-hero_image: images/BBotsTeamImage.jpeg
+hero_image: images/BackOfJersey.jpg
 hero_darken: true
 hero_height: is-large
 #mobile_black_text: true
