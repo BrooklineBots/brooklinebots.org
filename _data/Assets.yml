@@ -61,41 +61,41 @@
       altdownload: ../images/Assets/SummerCamps/Manuals/2011TeeTimeManual.doc
 
 
-- title: Robot Gallery
-  images:
-    - image: ../images/robots/2024robot.png
-      description: The Brookline Bots 2024 Robot!
-    - image: ../images/robots/2023robot.png
-      description: The Brookline Bots 2023 Robot!
-    - image: ../images/robots/2022robot.png
-      description: The Brookline Bots 2022 Robot!
-    - image: ../images/robots/2021robot.png
-      description: The Brookline Bots 2021 Robot!
-    - image: ../images/robots/2020robot.png
-      description: The Brookline Bots 2020 Robot!
-    - image: ../images/robots/2019robot.png
-      description: The Brookline Bots 2019 Robot!
-    - image: ../images/robots/2018robot.png
-      description: The Brookline Bots 2018 Robot!
-    - image: ../images/robots/2017robot.png
-      description: The Brookline Bots 2017 Robot!
-    - image: ../images/robots/2016robot.png
-      description: The Brookline Bots 2016 Robot!
-    - image: ../images/robots/2015robot.png
-      description: The Brookline Bots 2015 Robot!
-    - image: ../images/robots/2014robot.png
-      description: The Brookline Bots 2014 Robot!
-    - image: ../images/robots/2013robot.png
-      description: The Brookline Bots 2013 Robot!
-    - image: ../images/robots/2012robot.png
-      description: The Brookline Bots 2012 Robot!
-    - image: ../images/robots/2011robot.png
-      description: The Brookline Bots 2011 Robot!
-    - image: ../images/robots/2010robot.png
-      description: The Brookline Bots 2010 Robot!
-    - image: ../images/robots/2009robot.png
-      description: The Brookline Bots 2009 Robot!
-    - image: ../images/robots/2008robot.png
-      description: The Brookline Bots 2008 Robot!
-    - image: ../images/robots/2007robot.png
-      description: The Brookline Bots 2007 Robot!
+#- title: Robot Gallery
+#  images:
+#    - image: ../images/robots/2024robot.png
+#      description: The Brookline Bots 2024 Robot!
+#    - image: ../images/robots/2023robot.png
+#      description: The Brookline Bots 2023 Robot!
+#    - image: ../images/robots/2022robot.png
+#      description: The Brookline Bots 2022 Robot!
+#    - image: ../images/robots/2021robot.png
+#      description: The Brookline Bots 2021 Robot!
+#    - image: ../images/robots/2020robot.png
+#      description: The Brookline Bots 2020 Robot!
+#    - image: ../images/robots/2019robot.png
+#      description: The Brookline Bots 2019 Robot!
+#    - image: ../images/robots/2018robot.png
+#      description: The Brookline Bots 2018 Robot!
+#    - image: ../images/robots/2017robot.png
+#      description: The Brookline Bots 2017 Robot!
+#    - image: ../images/robots/2016robot.png
+#      description: The Brookline Bots 2016 Robot!
+#    - image: ../images/robots/2015robot.png
+#      description: The Brookline Bots 2015 Robot!
+#    - image: ../images/robots/2014robot.png
+#      description: The Brookline Bots 2014 Robot!
+#    - image: ../images/robots/2013robot.png
+#      description: The Brookline Bots 2013 Robot!
+#    - image: ../images/robots/2012robot.png
+#      description: The Brookline Bots 2012 Robot!
+#    - image: ../images/robots/2011robot.png
+#      description: The Brookline Bots 2011 Robot!
+#    - image: ../images/robots/2010robot.png
+#      description: The Brookline Bots 2010 Robot!
+#    - image: ../images/robots/2009robot.png
+#      description: The Brookline Bots 2009 Robot!
+#    - image: ../images/robots/2008robot.png
+#      description: The Brookline Bots 2008 Robot!
+#    - image: ../images/robots/2007robot.png
+#      description: The Brookline Bots 2007 Robot!
