@@ -9,7 +9,7 @@ hero_darken: true
 down_breaks: false
 ---
 
-<h1 style="font-size:3rem"> Sponsor Us! </h1>
+[//]: # (<h1 style="font-size:3rem"> Sponsor Us! </h1>)
 
 <h4 style ="font-size:1.2rem">Donations of any amount are greatly appreciated. Your contribution is <b> tax deductible </b>. If you would like to write a check,  it should be written to <b>Brookline Robotics Initiative</b> and mailed to: </h4>
 <br>    
