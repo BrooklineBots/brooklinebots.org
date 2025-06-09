@@ -1,5 +1,5 @@
 ---
-title: Sponsor us
+title: Sponsor Us
 subtitle: We appreciate any and every donation towards our team!
 layout: default
 show_sidebar: false
