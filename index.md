@@ -1,14 +1,14 @@
 ---
-title: Brookline Robotics Initiative
+title: Brookline Bots
 subtitle: FTC Team 17218
 layout: page
 callouts: home_callouts
 show_sidebar: false
 [//]: # (If true, then post page appears)
-hero_image: images/websiteTestImage.jpg
+hero_image: images/BackOfJersey.jpg
 hero_darken: true
 hero_height: is-large
-mobile_black_text: true
+#mobile_black_text: true
 ---
 <link rel="stylesheet" href="/assets/css/buttonHover.css">
 
@@ -41,7 +41,7 @@ mobile_black_text: true
 
 ---
 <div style="text-align:center; vertical-align: middle; padding:0px 0;">
-    <img src="images/2024TeamPic.jpg" alt=" " class="zoom" width="800" height="auto" >
+    <img src="images/BBotsHomeTeamPic.jpg" alt=" " class="zoom" width="650" height="auto" >
 </div>
 ---
 
@@ -57,26 +57,18 @@ mobile_black_text: true
 
 <div id="missStat" style="display:none">
 <br>
-      The Brookline Bots are dedicated to helping the future through the recognition and advocacy of science, technology, engineering, and math. As FIRST participants, we strive to build a community devoted to education, innovation, and inspiration. By creating strong partnerships with mentors, teachers, and sponsors, we encourage communication and leadership as crucial parts of team success.  
-</div>
+      The Brookline Bots are dedicated to advancing STEM education through robotics in the Brookline community! Our mission is to inspire and empower students in Brookline by providing hands-on experiences in science, technology, and engineering. Through collaboration with mentors, teachers, and local organizations, we strive to create opportunities for students to develop critical problem-solving and leadership skills by expanding the reach of FIRST programs to underrepresented groups and supporting teams at all levels.</div>
 
 <div id="teamFoc" style="display:none">
 <br>
       <p>
-         The focus of our team has been to reach out to our community in every way possible. We have attended school carnivals, school presentations, bingo raffles, Boy Scout meetings, school board meetings, and business meetings. We have been featured numerous times in publications, including three local newspapers, Honeywell newsletters, and even two books: FIRST Robotics: Rack N Roll and FIRST Robots: Behind The Design. The team created a video as an introduction to FIRST for the Lee's Summit community that aired on the local government channel and published a book about our team and our history.
-    <br><br>
-        In our own school, we have hosted booths at Freshmen Orientation Day, sponsored "Math and Science Teacher Appreciation Day," set up booths at football games, participated in Safe Halloween, and set up FIRST Robotics displays throughout the year. In cooperation with the two other Lee's Summit robotics teams, we have held PR meetings to schedule banquets, school visits, open houses, and community outreach projects. For three weeks this past summer, we sponsored robotics and engineering camps for elementary students.
-    <br><br>
-        We've made our name known throughout the community in various ways. We have presented at numerous Lee's Summit elementary schools, in addition to Lee's Summit middle schools, and a private Catholic school in a neighboring city. We have attended and presented at meetings for the Rotary Club, the Optimist Club, the National Tool and Machining Association, the Lee's Summit Economic Development Council, and the Kauffman Foundation. We also were excited to give presentations at Gail's Harley Davidson, Honeywell, the Engineering and Science Summit Institute at Kansas State University, and the Lee's Summit Chalk Walk. Together with the other two Lee's Summit robotics teams our team rotated staffing a booth at Downtown Days to reach out to all Lee's Summit citizens.
-    <br><br>
-        Over four years, we have sent over 1,500 letters to government officials. In 2008, there was a "Lee's Summit Robotics Day" proclamation from the mayor, and Governor Matt Blunt officially recognized and commended the FIRST Robotics Competition in the state of Missouri. Along with starting a mail campaign to government officials (fifteen different officials and federal offices), took the classic Flat Stanley and combined it with the spirit of FIRST to start our Flat Creation Campaign. This was designed to reach people outside our direct area of influence, like families and friends from other states and countries. During its time traveling, Flat Mammoth (from our 2008 Flat Creation Campaign) has visited a second grade classroom, attended a robot-themed movie night, enjoyed the warm weather in Honduras, and sat in the Missouri House of Representatives! 
-    </p>
+        We’re not just here to compete—we’re here to create a wave of opportunity. Our mission is to expand access to FIRST Tech Challenge in our community by mentoring future teams, uplifting young innovators, and showing that anyone can thrive in STEM.</p>
 </div>
 
 <div id="teamHist" style="display:none">
 <br>
   <p>
-     Over the years, the Brookline Bots have had many significant achievements. We've attended over {{ site.data.home_callouts.items[1].title }} competitions over the years, from Regionals to World Championship. Team 1987 has also competed in Off-Season competitions such as Ozark Mountain Brawl, Lee's Summit's CowTown ThrowDown and Indiana Robotics Invitational (IRI). We haven't kept quiet about what we do either. You can find the Brookline Bots spreading the message of FIRST within our community by hosting booths at Missouri State Fair, Lee's Summit's Downtown Days, Oktoberfest, Kansas City Maker Faire, School Registration day, Freshmen Transition Day and You Belong Club event. The team has been featured in countless newspaper articles, been on TV, and have had two robots written about and published in two books. We've also initiated letter campaigns, media broadcasts, toiletry drives for a Domestic Abuse shelter, and much more. Team 1987, The Brookline Bots has accomplished much since our founding year.
+     Over the years, the Brookline Bots have had many significant achievements. We've attended many competitions over the years, from local qualifiers to state championships. We haven't kept quiet about what we do either. You can find the Brookline Bots spreading the message of FIRST within our community by attending galas, networking nights, and hosting booths at local schools' STEM nights. Team 17218, the Brookline Bots has accomplished much since our founding year.
   </p>
 </div>
 

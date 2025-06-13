@@ -1,67 +1,10 @@
 #Copy Youtube link and remove everything except the last identifing sections
-- Video: 72AxnVR9yzg
-  description: Brookline Bots 2024 Greater Kansas City Recap
-- Video: lliPVuqGlFk
-  description: Brookline Bots 2024 Heartland Recap
-- Video: oIIn2sNtHTQ
-  description: Brookline Bots 2024 Central Missouri Recap
-- Video: Q2u3z5pdn40
-  description: Brookline Bots 2024 season week 5 update
-- Video: hwme6ksjEyM
-  description: Brookline Bots 2024 season week 3 update
-- Video: zD3T0I5nMwM
-  description: Brookline Bots 2024 season week 1 update
-- Video: PVuAVsHdg2A
-  description: Brookline Bots 2023 Behind the Bumpers
-- Video: kNwH6nfHuvU
-  description: Brookline Bots 2023 Champs Recap
-- Video: iQqJcUmKoYw
-  description: Brookline Bots 2023 GKC Recap
-- Video: Ss4auP1_TcY
-  description: Brookline Bots 2023 Heartland Recap
-- Video: UyCQjtCFufU
-  description: Brookline Bots 2023 season week 7 update
-- Video: o5aFqNtjkLM
-  description: Brookline Bots 2023 season week 5 update
-- Video: RDfN_2mthdk
-  description: Brookline Bots 2023 season week 3 update
-- Video: W_FEYzDaHiM
-  description: Brookline Bots 2023 season week 1 update
-- Video: WErLk-A_kgw
-  description: 2022 IRI video
-- Video: V9c11Xt4n4I
-  description: 2022 competition video
-- Video: EZvkGtba6rI
-  description: 2021 competition video
-- Video: E4T84EoGrFY
-  description: 2020 competition video
-- Video: ffqoO8EyDMM
-  description: 2019 Chairmans video
-- Video: oRsHhOZsMUg
-  description: 2019 competition video
-- Video: uI5w6rwAvxg
-  description: How to Assemble a WCP PTO Kit
-- Video: vifFxZpcO8o
-  description: 2018 competition video
-- Video: gsGJqDo8Un8
-  description: 2017 IRI video
-- Video: XlxdjUW4WdU
-  description: 2017 competition video
-- Video: fEY2m6I8te4
-  description: 2016 competition video
-- Video: 2y2KlVI9QOQ
-  description: 2015 competition video
-- Video: n2HZQHZMsxg
-  description: 2014 competition video
-- Video: n9SAqdS2oRc
-  description: 2013 competition video
-- Video: _xo9qGPrMjk
-  description: 2012 competition video
-- Video: ehl0LqHGN-0
-  description: 2011 competition video
-- Video: k-wJUr7Bzds
-  description: 2010 competition video
-- Video: EEiR9SNVi_g
-  description: 2009 competition video
-- Video: 3ZpU5FcNmoM
-  description: 2008 competition video
+# for drive click the top three dots and copy the embeds file id =>  https://drive.google.com/file/d/FILES'S ID/preview
+- Video: 16UUfGXDm6UX_mj2QAB0-A8F81zeT4u3p
+  description: 2025 Brookline Bots Qualifier Recap
+  drive: true
+
+#if we have more videos (page pretty empty)
+#- Video:
+#  description:
+#  drive:

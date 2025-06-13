@@ -2,50 +2,51 @@
   size: small
   description: |-
   sponsors:
-    - name: EXAMPLE
-      image: ../images/2024TeamPic.jpg
-      description: The Gene Haas Foundation donates millions of dollars every year to manufacturing education and the community. In 2020, the Gene Haas Foundation provided more than $20 million in grants, bringing the total since inception to more than to $120 million.
-      profile: https://ghaasfoundation.org/
-      Confetti: true
-    - name: AES Corporation
-      description: Company Sponsor
-      image: ../images/sponsors/AesCorp.jpg
-      profile: https://www.aes.com/
-    - name: Amind Solutions
-      description: Company Sponsor
-    - name: BHS Science Department
-      description: School Sponsor
-      profile: https://bhs.brookline.k12.ma.us/science.html
-    - name: Board Leaders Inc
-      description: Group Sponsor
-    - name: The Committee to Elect Tommy Vitolo
-      description: Personal Sponsor
-      profile: https://tommyvitolo.com/
-      image: ../images/sponsors/TommyVitolo.png
-    - name: Eduporium
-      description: Company Sponsor
-      profile: https://www.eduporium.com/
-    - name: Elizabeth Shutters
-      description: Personal Sponsor
-    - name: Rizika Realty Trust
-      description: Company Sponsor
-    - name: Glassman and Associates
-      description: Company Sponsor
-    - name: Jon and Francie Karlen
-      description: Personal Sponsors
-    - name: Magnolia Optical and Yash Puri
-      description: Company and Personal Sponsor
-    - name: Plex systems
-      description: Company Sponsor
-      profile: https://www.plex.com/
-    - name: True Motion
-      description: Company Sponsor
-      profile: https://truemotion.run/en?srsltid=AfmBOoqNYLSQa7zpp5VXENN1_jx9I_KzJjGaLon_b6PyZASOGhVCDMZx
     - name: The Rotary Club
       description: Company Sponsor
       image: ../images/sponsors/BrooklineRotary.jpeg
       profile: https://brooklinerotary.org/
-      Confetti: true
+    - name: The Committee to Elect Tommy Vitolo
+      description: Personal Sponsor
+      profile: https://tommyvitolo.com/
+      image: ../images/sponsors/TommyVitolo.png
+    - name: BHS Science Department
+      description: School Sponsor
+      profile: https://bhs.brookline.k12.ma.us/science.html
+      image: ../images/sponsors/WarriorsLogo.png
+    - name: AES Corporation
+      description: Company Sponsor
+      image: ../images/sponsors/AesCorp.jpg
+      profile: https://www.aes.com/
     - name: Robert Rizika
       description: Personal Sponsor
-      Confetti: true
+      image: ../images/sponsors/Robert_Rzika.jpg
+    - name: Glassman and Associates
+      description: Company Sponsor
+      image: ../images/sponsors/GlassmanLogo.png
+    - name: Eduporium
+      description: Company Sponsor
+      profile: https://www.eduporium.com/
+      image: ../images/sponsors/Eduporium.png
+    - name: Magnolia Optical and Yash Puri
+      description: Company and Personal Sponsor
+      image: ../images/sponsors/MagnoliaOpticalPrism.jpg
+    - name: Plex systems
+      description: Company Sponsor
+      profile: https://www.plex.com/
+      image: ../images/sponsors/PlexSystemsSponsor.png
+    - name: True Motion
+      description: Company Sponsor
+      profile: https://truemotion.run/en?srsltid=AfmBOoqNYLSQa7zpp5VXENN1_jx9I_KzJjGaLon_b6PyZASOGhVCDMZx
+      image: ../images/sponsors/TrueMotion.png
+    - name: Board Leaders Inc
+      description: Group Sponsor
+    - name: Jon and Francie Karlen
+      description: Personal Sponsors
+    - name: Elizabeth Shutters
+      description: Personal Sponsor
+    - name: Rizika Realty Trust
+      description: Company Sponsor
+
+
+

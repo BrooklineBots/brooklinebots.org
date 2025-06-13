@@ -1,56 +1,34 @@
-- name: The Blue Alliance
-  image: ../images/resources/TheBlueAlliance.PNG
+- name: FTC website
+  image: ../images/resources/FTCLogo.jpg
+  description: An important place to find season information from FIRST
+  link: //www.firstinspires.org/robotics/ftc
+- name: FTC Scout
+  image: ../images/resources/FtcScout.jpg
   description: A helpful tool to track teams during events.
-  link: //www.thebluealliance.com/team/1987
-- name: Chief Delphi
-  image: ../images/resources/ChiefDelphi.svg
-  description: The social media of FIRST!
-  link: //www.chiefdelphi.com
+  link: //www.ftcscout.com/team/17218
+- name: Onshape
+  image: ../images/resources/OnShape.png
+  description: The program we use for all our CAD models.
+  link: //www.onshape.com/en/
+- name: Brookline Robotics Initiative
+  image: ../images/resources/BriWebsite.png
+  description: The Brookline Robotics Initiative is a 501(c)(3) non-profit started by the Brookline Bots to create STEM education opportunities in the greater Boston area.
+  link: //www.brooklinerobotics.org/
+- name: Game Manual 0
+  image: ../images/resources/GameManualZero.png
+  description: Everything you need to know about FTC
+  link: //gm0.org/en/latest/
+- name: Robot Wiring Guide
+  image: ../images/resources/RobotWiringGuide.png
+  description: Guide for how to properly wire an FTC robot.
+  link: //www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/robot-wiring-guide.pdf
 - name: Gear Calculator
   image: ../images/resources/GearCalculator.PNG
   description: A gear calculator tool.
   link: //www.wcproducts.com/pages/calculator-gear?pitch=20&calc_unit=in&vex_modifield=true&gear1t=14&gear2t=60&extra_center=0.003
-- name: ReCalc
-  image: ../images/resources/ReCalc.PNG
-  description: A parts calculator tool.
-  link: //https://www.reca.lc/
 - name: Belt Calculator
   image: ../images/resources/BeltCalculator.PNG
   description: A belt Calculator tool.
   link: //www.wcproducts.com/pages/calculator-belt?pitch=3&calc_unit=in&vex_modifield=true&pulley1t=16&pulley2t=24&desired_center=5.000&extra_center=0.000
-- name: Design Spreadsheets
-  image: ../images/resources/DesignSpreadsheets.PNG
-  description: A Spectrum Robot Design Sheet.
-  link: //blog.spectrum3847.org/2017/12/spectrum-robot-design-sheet.html
-- name: Onshape
-  image: ../images/resources/Onshape.PNG
-  description: The program we use for all our CAD models.
-  link: //www.onshape.com/en/
-- name: Onshape4FRC
-  image: ../images/resources/Onshape4FRC.PNG
-  description: Onshape CAD and design resources to help teach for FRC.
-  link: //www.onshape4frc.com/
-- name: Compass Alliance
-  image: ../images/resources/CompassAlliance.PNG
-  description: The Compass Alliance Pathways are step-by-step guidelines for learning about all FRC topics, at any level.
-  link: //www.thecompassalliance.org
-- name: Socket Head Clearance
-  image: ../images/resources/SocketHeadClearance.PNG
-  description: A tool to assist with socket head clearances.
-  link: //www.zerofast.com/product/low-head-sockets
-- name: 973 Ramp
-  image: ../images/resources/973Ramp.PNG
-  description: 973 Remote Assistance and Mentorship Program
-  link: //www.greybots.com/ramp.html
-- name: 2020 Preseason CAD - Parametric 6WD
-  image: ../images/resources/Parametric6WD.PNG
-  description: Our 2020 preseason CAD of a parametric 6 wheel drive.
-  link: //a360.co/2SNRmYE
-- name: 2020 Preseason CAD - Parametric 8WD
-  image: ../images/resources/Parametric8WD.PNG
-  description: Our 2020 preseason CAD of a parametric 8 wheel drive.
-  link: //a360.co/2sFFFs4
-- name: 2020 Preseason CAD - Parametric Belly Pan
-  image: ../images/resources/ParametricBellyPan.PNG
-  description: Our 2020 preseason CAD of a parametric belly pan.
-  link: //a360.co/2ZSVxUw
+
+

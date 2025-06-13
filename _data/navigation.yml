@@ -19,8 +19,6 @@
   dropdown:
     - name: Helpful Links
       link: /HelpfulLinks/
-    - name: Assets
-      link: /assets/
     - name: Videos
       link: /videos/
 - name: Summer Camps

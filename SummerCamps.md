@@ -4,7 +4,7 @@ title: Summer Camps
 subtitle: For ages 7-13
 description: Brookline Robotics Initiative Summer Camps
 show_sidebar: false
-hero_image: ../images/SummerCamp.jpg
+hero_image: ../images/Camp.jpg
 down_breaks: true
 hero_darken: true
 hero_height: is-medium
