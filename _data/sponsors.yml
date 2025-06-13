@@ -39,6 +39,10 @@
       description: Company Sponsor
       profile: https://truemotion.run/en?srsltid=AfmBOoqNYLSQa7zpp5VXENN1_jx9I_KzJjGaLon_b6PyZASOGhVCDMZx
       image: ../images/sponsors/TrueMotion.png
+    - name: Brookline Booksmith
+      description: company sponsor
+      profile: https://brooklinebooksmith.com/
+      image: ../images/sponsors/BrooklineBooksmithLogo.jpg
     - name: Board Leaders Inc
       description: Group Sponsor
     - name: Jon and Francie Karlen
