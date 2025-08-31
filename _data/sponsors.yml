@@ -2,6 +2,10 @@
   size: small
   description: |-
   sponsors:
+    - name: Luma Optics
+      description: Company Sponsor
+      image: ../images/sponsors/LumaOpticsLogo.png
+      profile: https://www.lumaoptics.net/
     - name: The Rotary Club
       description: Company Sponsor
       image: ../images/sponsors/BrooklineRotary.jpeg
