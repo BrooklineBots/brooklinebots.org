@@ -60,17 +60,17 @@
 
     - name: "Neta Orr"
       year: 28
-      image: ../images/TeamMembers/Hailey.jpg
+      image: ../images/Assets/Branding/HighRes.png
       bio: "Neta is a first-year member."
 
     - name: "Sophia Neer"
       year: 28
-      image: ../images/TeamMembers/Hailey.jpg
+      image: ../images/Assets/Branding/HighRes.png
       bio: "Sophia is a first-year member."
 
     - name: "Violet Linus"
       year: 28
-      image: ../images/TeamMembers/Hailey.jpg
+      image: ../images/Assets/Branding/HighRes.png
       bio: "Violet is a first-year member."
 
 
