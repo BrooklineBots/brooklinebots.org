@@ -73,6 +73,12 @@
       image: ../images/Assets/Branding/HighRes.png
       bio: "Violet is a first-year member."
 
+    - name: "Doelle Bhattacharya"
+      year: 28
+      image: ../images/Assets/Branding/HighRes.png
+      bio: "Doelle is a first-year member."
+
+
 
 
 - tier_name: "Mentors and Coaches"
@@ -103,6 +109,11 @@
       role: "Mentor"
       image: ../images/Mentors/BrittStevens.png
       bio: "Britt Stevens advises us on how to work within the BHS system to get resources from both the school and the town of Brookline."
+
+    - name: "Michelle McGlone"
+      role: "Summer Camp Advisor"
+      image: ../images/Mentors/MichelleMcGone.png
+      bio: "Michelle from Brookline Adult and Community Education advises us on how to run a great camp."
 
     - name: "Ed Wiser"
       role: "Build Advisor"
