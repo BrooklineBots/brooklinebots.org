@@ -3,93 +3,83 @@
   description: |-
   members:
     #Captains
-
-    - name: "Sophia Heinrich"
-      year: 25
-      captain: true
-      image: ../images/Assets/Branding/BrooklineBots.svg
-      bio: "Sophia is a third-year member and team captain."
-
     - name: "Lila Cannon"
       year: 26
       captain: true
       image: ../images/TeamMembers/Lila.jpg
-      bio: "Lila is a fourth-year member and team captain."
+      bio: "Lila is a fifth-year member and team captain."
 
     - name: "Callie Wu"
       year: 26
       captain: true
       image: ../images/TeamMembers/Callie.jpg
-      bio: "Callie is a first-year member and next season's team captain."
+      bio: "Callie is a second-year member and next season's team captain."
 
     - name: "Ananya Rajaraman"
       year: 27
       captain: true
       image: ../images/TeamMembers/Ananya.jpg
-      bio: "Ananya is a second-year member and next season's team captain."
+      bio: "Ananya is a third-year member and next season's team captain."
 
-    #Seniors
-    - name: "Ellie Linas"
-      year: 25
-      image: ../images/Assets/Branding/BrooklineBots.svg
-      bio: "Ellie is a fourth-year member."
-
-    - name: "Isabel Oldham"
-      year: 25
-      image: ../images/Assets/Branding/BrooklineBots.svg
-      bio: "Isabel is a third-year member."
-
-    - name: "Lauren Fisch"
-      year: 25
-      image: ../images/Assets/Branding/BrooklineBots.svg
-      bio: "Lauren is a second-year member."
-
-    - name: "Alina Samarasan"
-      year: 25
-      image: ../images/Assets/Branding/BrooklineBots.svg
-      bio: "Alina is a third-year member."
-
-    #Sophmores
+    #Juniors
     - name: "Yael Shapiro"
       year: 27
       image: ../images/Assets/Branding/BrooklineBots.svg
-      bio: "Yael is a first-year member."
+      bio: "Yael is a second-year member."
 
     - name: "Talia Hsieh"
       year: 27
       image: ../images/TeamMembers/Talia.jpg
-      bio: "Talia is a first-year member."
+      bio: "Talia is a second-year member."
 
-    - name: "Sofi Ugalde"
-      year: 27
-      image: ../images/Assets/Branding/BrooklineBots.svg
-      bio: "Sofi is a first-year member."
-
-    #Freshman
+    #Sophmore
     - name: "Brielle Hwang"
       year: 28
       image: ../images/TeamMembers/Brielle.jpg
-      bio: "Brielle is a second-year member."
+      bio: "Brielle is a third-year member."
 
     - name: "Ariel Ben-Asher"
       year: 28
       image: ../images/TeamMembers/Ariel.jpg
-      bio: "Ariel is a first-year member."
+      bio: "Ariel is a second-year member."
 
     - name: "Sophie Isla Farago"
       year: 28
       image: ../images/TeamMembers/Sophie.jpg
-      bio: "Sophie is a first-year member."
+      bio: "Sophie is a second-year member."
 
     - name: "Lily Burke"
       year: 28
       image: ../images/TeamMembers/Lily.jpg
-      bio: "Lily is a first-year member."
+      bio: "Lily is a second-year member."
 
     - name: "Hailey Silk"
       year: 28
       image: ../images/TeamMembers/Hailey.jpg
-      bio: "Hailey is a first-year member."
+      bio: "Hailey is a second-year member."
+
+    - name: "Neta Orr"
+      year: 28
+      image: ../images/Assets/Branding/HighRes.png
+      bio: "Neta is a first-year member."
+
+    - name: "Sophia Neer"
+      year: 28
+      image: ../images/Assets/Branding/HighRes.png
+      bio: "Sophia is a first-year member."
+
+    - name: "Violet Linus"
+      year: 28
+      image: ../images/Assets/Branding/HighRes.png
+      bio: "Violet is a first-year member."
+
+    - name: "Doelle Bhattacharya"
+      year: 28
+      image: ../images/Assets/Branding/HighRes.png
+      bio: "Doelle is a first-year member."
+
+
+
 
 - tier_name: "Mentors and Coaches"
   size: small
@@ -112,7 +102,7 @@
 
     - name: "Georgie Ford"
       role: "Technical CAD mentor "
-      image: ../images/Assets/Branding/BrooklineBots.svg
+      image: ../images/Mentors/Georgie.jpg
       bio: "Georgie advises our CADers and is a student at Boston University. As an alumni of FIRST, she gives us specialized recommendations."
 
     - name: "Britt Stevens"
@@ -120,17 +110,13 @@
       image: ../images/Mentors/BrittStevens.png
       bio: "Britt Stevens advises us on how to work within the BHS system to get resources from both the school and the town of Brookline."
 
-    - name: "Daniel Shapiro"
-      role: "Technical Software Mentor"
-      image: ../images/Mentors/DanielShapiro.png
-      bio: "Daniel has a background in computer science and has recently joined our mentorship team. He has helped us problem solve issues with our vision detection and other coding related problems."
+    - name: "Michelle McGlone"
+      role: "Summer Camp Advisor"
+      image: ../images/Mentors/MichelleMcGone.png
+      bio: "Michelle from Brookline Adult and Community Education advises us on how to run a great camp."
 
     - name: "Ed Wiser"
       role: "Build Advisor"
       image: ../images/Mentors/EdWiser.png
       bio: "Mr. Weiser is a teacher at Brookline High School and advises us on building, especially in his robotics class."
 
-    - name: "Michelle McGlone"
-      role: "Summer Camp Advisor"
-      image: ../images/Mentors/MichelleMcGone.png
-      bio: "Michelle from Brookline Adult and Community Education advises us on how to run a great camp."
