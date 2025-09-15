@@ -13,13 +13,13 @@
       year: 26
       captain: true
       image: ../images/TeamMembers/Callie.jpg
-      bio: "Callie is a second-year member and next season's team captain."
+      bio: "Callie is a second-year member and team captain."
 
     - name: "Ananya Rajaraman"
       year: 27
       captain: true
       image: ../images/TeamMembers/Ananya.jpg
-      bio: "Ananya is a third-year member and next season's team captain."
+      bio: "Ananya is a third-year member and team captain."
 
     #Juniors
     - name: "Yael Shapiro"
@@ -32,7 +32,7 @@
       image: ../images/TeamMembers/Talia.jpg
       bio: "Talia is a second-year member."
 
-    #Sophmore
+    #Sophmores
     - name: "Brielle Hwang"
       year: 28
       image: ../images/TeamMembers/Brielle.jpg
