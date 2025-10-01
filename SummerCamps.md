@@ -128,7 +128,7 @@ The buttons below will send you to a PDF of a flyer with information for both th
         <dd>5-12 year olds</dd>
 
         <dt><b>Dates:</b></dt>
-        <dd>June 23, 2025 - August 29, 2025 (Choose any week)</dd>
+        <dd>To Be Determined For 2026 </dd>
         
         <dt><b>Time:</b></dt>
         <dd>9:00am-3:00pm (Extended day available)</dd>
@@ -193,7 +193,7 @@ The buttons below will send you to a PDF of a flyer with information for both th
         <dd>Rising 1st graders to rising 9th graders.</dd>
 
         <dt><b>Dates:</b></dt>
-        <dd>July 7th – August 15th (Choose any week)</dd>
+        <dd>To Be Determined For 2026</dd>
         
         <dt><b>Times:</b></dt>
         <dd>8:30am - 4:00pm (Extended Day available)</dd>
