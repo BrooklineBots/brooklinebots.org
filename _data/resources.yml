@@ -8,8 +8,12 @@
   link: //www.ftcscout.com/team/17218
 - name: Onshape
   image: ../images/resources/OnShape.png
-  description: The program we use for all our CAD models.
+  description: One of the programs we use for  our CAD models.
   link: //www.onshape.com/en/
+- name: Fusion 360
+  image: ../images/resources/fusion360Image.jpg
+  description: Another program we use for our CAD models
+  link: https://www.autodesk.com/
 - name: Brookline Robotics Initiative
   image: ../images/resources/BriWebsite.png
   description: The Brookline Robotics Initiative is a 501(c)(3) non-profit started by the Brookline Bots to create STEM education opportunities in the greater Boston area.
