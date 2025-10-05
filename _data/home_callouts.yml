@@ -2,22 +2,21 @@ style: is-light
 items:
   - title: 5
     subtitle: Seasons Competed
-    icon: fa-superpowers
-    icon_brand: true
+    icon: fa-robot
   - title: 10
     subtitle: Competitions
     icon: fa-arrows-alt
-  - title: 17
+  - title: 15
     subtitle: Sponsors
     icon: fa-flag
-  - title: 75
-    subtitle: percent increase in problem "stick-to-itness"
-#    summer camp kids ^^^
-    icon: fa-bullseye
-  - title: 112
-    subtitle: percent increase in the ability to work together in teams
-    icon: fa-bolt
-  - title: 100
-    subtitle: percent increase in confidence when giving presentations
-    icon: fa-user-plus
+  - title: 18
+    subtitle: Awards
+    icon: fa-trophy
+  - title: 50
+    subtitle: And More Outreach Events
+    icon: fa-children
+  - title: 3
+    subtitle: Qualifiers Hosted
+    icon: fa-gear
 #    icon_brand: true
+
