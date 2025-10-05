@@ -11,7 +11,7 @@
   description: One of the programs we use for  our CAD models.
   link: //www.onshape.com/en/
 - name: Fusion 360
-  image: ../images/resources/fusion360Image.png
+  image: ../images/resources/fusion360Image.jpg
   description: Another program we use for our CAD models
   link: https://www.autodesk.com/
 - name: Brookline Robotics Initiative
