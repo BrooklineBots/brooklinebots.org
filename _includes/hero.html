@@ -21,8 +21,8 @@
     .arrow-container::before {
         content: "";
         position: absolute;
-        bottom: calc(2.5% + 6em);
-        right: calc(7.9% - 0.5em);
+        bottom: calc(2.5% + 3em);
+        right: 2.8em;
         width: 2.3em;
         height: 2.3em;
         background-color: rgba(128, 128, 128, 0.5);
@@ -32,8 +32,8 @@
 
     .arrow-down {
         position: absolute;
-        bottom: calc(2.5% + 4.25em);
-        right: 8%;
+        bottom: calc(2.5% + 2.25em);
+        right: 2em;
         font-size: 1.5em;
         color: #fff;
         animation: bounce 2s infinite;
@@ -55,7 +55,7 @@
     .scroll-down-text {
         position: absolute;
         bottom: calc(5% + 3em);
-        right: 5.3%;
+        right: 2.5em;
         color: #fff;
         font-size: 1.125em;
     }
@@ -84,7 +84,7 @@
         {% if page.hero_image %}
         <div class="arrow-container">
             <i class="fa fa-arrow-down arrow-down" aria-hidden="true" onclick="scrollToNextSection()"></i>
-            <div class="scroll-down-text">Scroll Down!</div>
+
         </div>
         {% endif %}
     </section>
