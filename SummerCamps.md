@@ -99,25 +99,21 @@ hero_height: is-medium
 
 <div class="centered">
     <p>
-In our camp, we make robotics fun for students ages 7 - 13. Here are some things your child will be able to do:
-<ul>
-    <li> Build and program innovative Lego robots</li>
-    <li> Compete in battle bot competitions</li>
-    <li> Play robot soccer</li>
-    <li> Meet other STEM interested students</li>
-</ul>
 
-<h3><b>No experience is required!</b></h3>
+<h2 style="font-size: 45px; text-align: left; color:#5777a8;"> Penguin Coding School Summer Camp </h2>
 
-<h4>Brookline Robotics Camp Sign Up Information:</h4>
 
-This summer, we are excited to announce our collaboration with both Penguin Coding School and The Robo Hub!
-The buttons below will send you to a PDF of a flyer with information for both the Penguin Coding School Robotics Camp and The Robo Hub Robotics Camp, both in partnership with the Brookline Robotics Initiative.
+Brookline Robotics Initiative offers on-site robotics camps as a unique employee benefit. For a tax-deductible donation of $5,000-$10,000, we bring our full camp program directly to your workplace—complete with materials, instructors, and curriculum.
+<br><br>Employees can register 1-3 children (grades 3-8) for hands-on robotics activities right at the office, solving summer childcare challenges while providing quality STEM education. We offer flexible formats including single-day, 3-day, or week-long camps, typically running 9am-4pm.
+<br><br>With 5 years of experience and a 98% satisfaction rating, our camps provide a convenient, impactful way to support your team while investing in the next generation of innovators.
+
+<br><br><b>Interested in bringing BRI to your company?</b> Contact us to learn more about this turnkey employee benefit program.
+
 </p>
 </div>
 
-## Penguin Coding School Summer Camp
-{: style="font-size: 45px; text-align: left; color:#5777a8;"}
+
+
 ***
 <div class="camp-container">
     <div class="camp-content">
