@@ -102,7 +102,7 @@
 
     - name: "Georgie Ford"
       role: "Technical CAD mentor "
-      image: ../images/Mentors/Georgie.jpg
+      image: ../images/TeamMembers/Georgie.jpg
       bio: "Georgie advises our CADers and is a student at Boston University. As an alumni of FIRST, she gives us specialized recommendations."
 
     - name: "Britt Stevens"
