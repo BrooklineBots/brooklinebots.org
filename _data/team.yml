@@ -24,7 +24,7 @@
     #Juniors
     - name: "Yael Shapiro"
       year: 27
-      image: ../images/Assets/Branding/BrooklineBots.svg
+      image: ../images/TeamMembers/Yael.jpg
       bio: "Yael is a second-year member."
 
     - name: "Talia Hsieh"
@@ -60,7 +60,7 @@
 
     - name: "Neta Orr"
       year: 28
-      image: ../images/Assets/Branding/HighRes.png
+      image: ../images/TeamMembers/Neta.jpg
       bio: "Neta is a first-year member."
 
     - name: "Sophia Neer"
@@ -68,7 +68,7 @@
       image: ../images/TeamMembers/Sophia.jpg
       bio: "Sophia is a first-year member."
 
-    - name: "Violet Linus"
+    - name: "Violet Linas"
       year: 28
       image: ../images/Assets/Branding/HighRes.png
       bio: "Violet is a first-year member."
@@ -102,7 +102,7 @@
 
     - name: "Georgie Ford"
       role: "Technical CAD mentor "
-      image: ../images/Mentors/Georgie.jpg
+      image: ../images/TeamMembers/Georgie.jpg
       bio: "Georgie advises our CADers and is a student at Boston University. As an alumni of FIRST, she gives us specialized recommendations."
 
     - name: "Britt Stevens"
