@@ -102,9 +102,9 @@ hero_height: is-medium
 {: style="font-size: 2.9em; text-align: left; color:#5777a8;"}
 ***
 
-Brookline Robotics Initiative offers on-site robotics camps as a unique employee benefit. For a tax-deductible donation of $5,000-$10,000, we bring our full camp program directly to your workplace—complete with materials, instructors, and curriculum.
+Brookline Robotics Initiative offers on-site robotics camps as a unique employee benefit. For a tax-deductible donation, we bring our full camp program directly to your workplace—complete with materials, instructors, and curriculum.
 
-Employees can register 1-3 children (grades 3-8) for hands-on robotics activities right at the office, solving summer childcare challenges while providing quality STEM education. We offer flexible formats including single-day, 3-day, or week-long camps, typically running 9am-4pm.
+Employees can register 1-3 children (grades 3-8) for hands-on robotics activities right at the office, solving summer childcare challenges while providing quality STEM education. We offer flexible formats including single-day, 3-day, or week-long camps, typically running 9am-5pm (regular work hours!)
 
 With 5 years of experience and a 98% satisfaction rating, our camps provide a convenient, impactful way to support your team while investing in the next generation of innovators.
 
