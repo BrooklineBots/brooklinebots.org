@@ -108,7 +108,7 @@ Employees can register 1-3 children (age 6-13) for hands-on robotics activities 
 
 With 5 years of experience and a 98% satisfaction rating, our camps provide a convenient, impactful way to support your team while investing in the next generation of innovators.
 
-**Interested in bringing the BRI to your company?** Contact us to learn more about this turnkey employee benefit program.
+**Interested in bringing the BRI to your company?** Contact us at [brooklineroboticsinitiative@gmail.com](mailto:brooklineroboticsinitiative@gmail.com) to learn more about this partnership opportunity turnkey employee benefit program.
 
 
 ## Penguin Coding School Summer Camp
@@ -139,7 +139,7 @@ With 5 years of experience and a 98% satisfaction rating, our camps provide a co
             
             <p>Through the academic year we mentor and coach First Lego League Robotics Teams (FLL) as well as First Tech Challenge Teams (FTC).</p>
         </div>
-
+        <br>
         <div class="link-section">
             <p><b>Check out:</b>
             <a href="https://penguincodingschool.com/brookline" 
@@ -155,9 +155,9 @@ With 5 years of experience and a 98% satisfaction rating, our camps provide a co
             <h3 class="section-heading">SUMMER $200 DISCOUNT & FUNDRAISING FOR BROOKLINE HIGH SCHOOL ROBOTICS:</h3>
             <p>Use coupon code: <b>sumbhs2025</b> to sign up for our Summer Programs once registration opens.</p>
             <p>You get <b>$200 OFF</b> plus Brookline High School Robotics teams get a <b>$75 donation for each sign up.</b></p>
-            <br/>
+          
         </div>
-
+        <br>
         <div class="collaboration-section">
             <p>Penguin Coding School is collaborating with Brookline High School’s 3 FTC Robotics Teams: BBots, TNT and Cloud 9 by hiring many of their team members to bring you Lego Robotics instructions and fun during the spring and summer.</p>
         </div>
@@ -226,7 +226,7 @@ With 5 years of experience and a 98% satisfaction rating, our camps provide a co
                 <li><b>Battlebot Engineers Workshop</b> - More advanced robot design and programming for beginners to seasoned students</li>
                 <li><b>Aerospace Engineers Workshop</b> - Explore flight principles through hands-on projects</li>
             </ul>
-            <br/>
+            
         </div>
 
         
@@ -245,7 +245,7 @@ With 5 years of experience and a 98% satisfaction rating, our camps provide a co
             <a href="../images/SummerCampFlyers/TheRoboHub.pdf" download class="download-button">Open Robo Hub Flyer</a>
         </div>
     </div>
-</div>
+</div> 
 
 ## EXCLUSIVE OFFER FOR BROOKLINE FAMILIES:
 {: style="font-size: 24px; text-align: left"}
