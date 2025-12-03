@@ -97,24 +97,19 @@ hero_height: is-medium
 }
 </style>
 
-<div class="centered">
-    <p>
-In our camp, we make robotics fun for students ages 7 - 13. Here are some things your child will be able to do:
-<ul>
-    <li> Build and program innovative Lego robots</li>
-    <li> Compete in battle bot competitions</li>
-    <li> Play robot soccer</li>
-    <li> Meet other STEM interested students</li>
-</ul>
 
-<h3><b>No experience is required!</b></h3>
+## New On-site Summer Camps!
+{: style="font-size: 2.9em; text-align: left; color:#5777a8;"}
+***
 
-<h4>Brookline Robotics Camp Sign Up Information:</h4>
+Brookline Robotics Initiative offers on-site robotics camps as a unique employee benefit. For a tax-deductible donation of $5,000-$10,000, we bring our full camp program directly to your workplace—complete with materials, instructors, and curriculum.
 
-This summer, we are excited to announce our collaboration with both Penguin Coding School and The Robo Hub!
-The buttons below will send you to a PDF of a flyer with information for both the Penguin Coding School Robotics Camp and The Robo Hub Robotics Camp, both in partnership with the Brookline Robotics Initiative.
-</p>
-</div>
+Employees can register 1-3 children (grades 3-8) for hands-on robotics activities right at the office, solving summer childcare challenges while providing quality STEM education. We offer flexible formats including single-day, 3-day, or week-long camps, typically running 9am-4pm.
+
+With 5 years of experience and a 98% satisfaction rating, our camps provide a convenient, impactful way to support your team while investing in the next generation of innovators.
+
+**Interested in bringing the BRI to your company?** Contact us to learn more about this turnkey employee benefit program.
+
 
 ## Penguin Coding School Summer Camp
 {: style="font-size: 45px; text-align: left; color:#5777a8;"}
@@ -234,37 +229,7 @@ The buttons below will send you to a PDF of a flyer with information for both th
             <br/>
         </div>
 
-        <div class="offer-section">
-            <h3 class="section-heading">EXCLUSIVE OFFER FOR BROOKLINE FAMILIES:</h3>
-            <p><b>SAVE $200 WITH CODE: BROOKBOTS200</b><br>
-            <i>Using this discount code will support BHS Robotics teams in their fundraising efforts!</i></p>
-        </div>
-
-        <h3 class="section-heading">A DAY AT CAMP INCLUDES:</h3>
-        <ul>
-            <li>Hands-on robotics programming and building</li>
-            <li>Collaborative engineering challenges</li>
-            <li>Outdoor activities and team-building games</li>
-            <li>Creative problem-solving projects</li>
-            <li>Access to cutting-edge technology</li>
-            <li>Free early drop-off starting at 8:30am</li>
-            <li>Optional extended day until 5:30pm</li>
-        </ul>
-
-        <div>
-            <p class="urgency-note"><b>Spaces are limited and filling quickly for this inaugural Brookline program!</b></p>
-            <p class="registration-link">Register at <a href="https://therobohub.com/summer-camp-brookline/" target="_blank" rel="noopener">therobohub.com/summer-camp-brookline/</a></p>
-        </div>
-
-        <div class="contact-info">
-            <p><b>Have questions?</b><br>
-            Reach out to The Robo Hub at <a href="tel:617-395-3151">617-395-3151</a> or <a href="mailto:info@therobohub.com">info@therobohub.com</a>.</p>
-        </div>
-
-        <div>
-            <br/>
-            <p> Remember to use code <b>BROOKBOTS200</b> at checkout to claim your exclusive $200 discount and support BHS robotics teams!</p>
-        </div>
+        
     </div>
 </div>
 
@@ -281,6 +246,38 @@ The buttons below will send you to a PDF of a flyer with information for both th
         </div>
     </div>
 </div>
+
+
+## EXCLUSIVE OFFER FOR BROOKLINE FAMILIES:
+
+**SAVE $200 WITH CODE: BROOKBOTS200**
+
+Using this discount code will support BHS Robotics teams in their fundraising efforts!
+
+## A DAY AT CAMP INCLUDES:
+
+* Hands-on robotics programming and building
+
+* Collaborative engineering challenges
+
+* Outdoor activities and team-building games
+
+* Creative problem-solving projects
+
+* Access to cutting-edge technology
+
+* Free early drop-off starting at 8:30am
+
+* Optional extended day until 5:30pm
+        
+Spaces are limited and filling quickly for this inaugural Brookline program!
+Register at <a href="https://therobohub.com/summer-camp-brookline/" >therobohub.com/summer-camp-brookline/
+        
+
+Have questions?
+Reach out to The Robo Hub at <a href="tel:617-395-3151">617-395-3151</a> or <a href="mailto:info@therobohub.com">info@therobohub.com
+
+Remember to use code **BROOKBOTS200** at checkout to claim your exclusive $200 discount and support BHS robotics teams!
 
 ## Registration
 {: style="font-size: 45px; text-align: center; color:#5777a8;"}
