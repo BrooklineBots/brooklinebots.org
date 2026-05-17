@@ -31,13 +31,19 @@ hero_height: is-large
 </style>
 
 <p><h1 style="text-align:center">
-    Welcome!  Interested in applying for the 26-27 season? 
+    Welcome! Interested in applying for the 26-27 season? 
 </h1></p>
 
-<p style="font-size:20px;">We are the Brookline Bots, Team 17218, based out of Brookline, Massachusetts. The team is made up of many students attending Brookline High School, 2 coaches, several amazing mentors, and multiple gracious corporate sponsors! Our team is dedicated to FIRST (For Inspiration and Recognition of Science and Technology), our community, and working hard to encourage STEM (Science, Technology, Engineering, and Math) topics within our community. The Brookline Bots are looking forward to competing in each and every FTC Season. To learn more about our team, check out the About Us section of our website!</p>
+We are the Brookline Bots, Team 17218, based out of Brookline, Massachusetts. 
+The team is made up of many students attending Brookline High School, 2 coaches, 
+several amazing mentors, and multiple gracious corporate sponsors! Our team is 
+dedicated to [FIRST](https://www.firstinspires.org/) (For Inspiration and Recognition 
+of Science and Technology), our community, and working hard to encourage [STEM](http://www.brooklinerobotics.org/) 
+(Science, Technology, Engineering, and Math) topics within our community. The Brookline 
+Bots are looking forward to competing in each and every FTC Season. To learn more about 
+our team, check out the About Us section of our website!
 
- 
-<p><h1 style="...">
+
 
 <div style="text-align:center;margin-bottom:30px;">
   <a href="https://forms.gle/N5ssMBWQc8QSqtgbA" target="_blank" style="display:inline-block; background-color:#4a4580; color:#ffffff; padding:10px 20px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:28px;"> Apply for BBots 2026-2027 </a>
@@ -45,10 +51,11 @@ hero_height: is-large
 
 <p style="margin-bottom:30px;">Check back here often for events, competitions, and general team information!</p>
 
+---
 <div style="text-align:center; vertical-align: middle; padding:0px 0;">
     <img src="images/BBotsHomeTeamPic.jpg" alt=" " class="zoom" width="650" height="auto" >
 </div>
-
+---
 
 <div class="zoom"></div> 
 
