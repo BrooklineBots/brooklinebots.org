@@ -70,7 +70,7 @@
 
     - name: "Violet Linas"
       year: 28
-      image: ../images/TeamMembers/Violet
+      image: ../images/TeamMembers/Violet.jpg
       bio: "Violet is a first-year member."
 
     - name: "Doelle Bhattacharya"
