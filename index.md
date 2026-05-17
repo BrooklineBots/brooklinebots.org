@@ -49,7 +49,7 @@ our team, check out the About Us section of our website!
   <a href="https://forms.gle/N5ssMBWQc8QSqtgbA" target="_blank" style="display:inline-block; background-color:#4a4580; color:#ffffff; padding:10px 20px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:28px;"> Apply for BBots 2026-2027 </a>
 </div> 
 
-<p style="margin-bottom:30px;">Check back here often for events, competitions, and general team information!</p>
+**Check back here often for events, competitions, and general team information!**
 
 ---
 <div style="text-align:center; vertical-align: middle; padding:0px 0;">
