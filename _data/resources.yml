@@ -5,7 +5,7 @@
 - name: FTC Scout
   image: ../images/resources/FtcScout.jpg
   description: A helpful tool to track teams during events.
-  link: www.ftcscout.org/teams/17218
+  link: https://ftcscout.org/teams/17218
 - name: Onshape
   image: ../images/resources/OnShape.png
   description: One of the programs we use for  our CAD models.
