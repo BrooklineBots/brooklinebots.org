@@ -5,7 +5,7 @@
 - name: FTC Scout
   image: ../images/resources/FtcScout.jpg
   description: A helpful tool to track teams during events.
-  link: www.ftcscout.com/team/17218
+  link: www.ftcscout.org/teams/17218
 - name: Onshape
   image: ../images/resources/OnShape.png
   description: One of the programs we use for  our CAD models.
@@ -13,7 +13,7 @@
 - name: Fusion 360
   image: ../images/resources/fusion360Image.jpg
   description: Another program we use for our CAD models
-  link: https://www.autodesk.com/
+  link: www.autodesk.com/
 - name: Brookline Robotics Initiative
   image: ../images/resources/BriWebsite.png
   description: The Brookline Robotics Initiative is a 501(c)(3) non-profit started by the Brookline Bots to create STEM education opportunities in the greater Boston area.
@@ -21,7 +21,7 @@
 - name: Game Manual 0
   image: ../images/resources/GameManualZero.png
   description: Everything you need to know about FTC
-  link: gm0.org/en/latest/
+  link: www.gm0.org/en/latest/
 - name: Robot Wiring Guide
   image: ../images/resources/RobotWiringGuide.png
   description: Guide for how to properly wire an FTC robot.
