@@ -3,8 +3,8 @@ layout: page
 title: Branding
 subtitle: Our Team Identity
 show_sidebar: false
-hero_image: ../images/Assets/Branding/BrandingHeaderRobot.jpg
-hero_darken: true 
+hero_image: ../images/Assets/Branding/BrandingHeader.jpg
+hero_darken: true
 hero_height: is-large
 --- 
 <div class="full" style="text-align: center">
