@@ -1,38 +1,38 @@
 - name: FTC website
   image: ../images/resources/FTCLogo.jpg
   description: An important place to find season information from FIRST
-  link: www.firstinspires.org/robotics/ftc
+  link: firstinspires.org/robotics/ftc
 - name: FTC Scout
   image: ../images/resources/FtcScout.jpg
   description: A helpful tool to track teams during events.
-  link: https://ftcscout.org/teams/17218
+  link: ftcscout.org/teams/17218
 - name: Onshape
   image: ../images/resources/OnShape.png
   description: One of the programs we use for  our CAD models.
-  link: www.onshape.com/en/
+  link: onshape.com/en/
 - name: Fusion 360
   image: ../images/resources/fusion360Image.jpg
   description: Another program we use for our CAD models
-  link: www.autodesk.com/
+  link: autodesk.com/
 - name: Brookline Robotics Initiative
   image: ../images/resources/BriWebsite.png
   description: The Brookline Robotics Initiative is a 501(c)(3) non-profit started by the Brookline Bots to create STEM education opportunities in the greater Boston area.
-  link: www.brooklinerobotics.org/
+  link: brooklinerobotics.org/
 - name: Game Manual 0
   image: ../images/resources/GameManualZero.png
   description: Everything you need to know about FTC
-  link: www.gm0.org/en/latest/
+  link: gm0.org/en/latest/
 - name: Robot Wiring Guide
   image: ../images/resources/RobotWiringGuide.png
   description: Guide for how to properly wire an FTC robot.
-  link: www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/robot-wiring-guide.pdf
+  link: firstinspires.org/sites/default/files/uploads/resource_library/ftc/robot-wiring-guide.pdf
 - name: Gear Calculator
   image: ../images/resources/GearCalculator.PNG
   description: A gear calculator tool.
-  link: www.wcproducts.com/pages/calculator-gear?pitch=20&calc_unit=in&vex_modifield=true&gear1t=14&gear2t=60&extra_center=0.003
+  link: wcproducts.com/pages/calculator-gear?pitch=20&calc_unit=in&vex_modifield=true&gear1t=14&gear2t=60&extra_center=0.003
 - name: Belt Calculator
   image: ../images/resources/BeltCalculator.PNG
   description: A belt Calculator tool.
-  link: www.wcproducts.com/pages/calculator-belt?pitch=3&calc_unit=in&vex_modifield=true&pulley1t=16&pulley2t=24&desired_center=5.000&extra_center=0.000
+  link: wcproducts.com/pages/calculator-belt?pitch=3&calc_unit=in&vex_modifield=true&pulley1t=16&pulley2t=24&desired_center=5.000&extra_center=0.000
 
 
