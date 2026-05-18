@@ -97,24 +97,19 @@ hero_height: is-medium
 }
 </style>
 
-<div class="centered">
-    <p>
-In our camp, we make robotics fun for students ages 7 - 13. Here are some things your child will be able to do:
-<ul>
-    <li> Build and program innovative Lego robots</li>
-    <li> Compete in battle bot competitions</li>
-    <li> Play robot soccer</li>
-    <li> Meet other STEM interested students</li>
-</ul>
 
-<h3><b>No experience is required!</b></h3>
+## New On-site Summer Camps!
+{: style="font-size: 2.9em; text-align: left; color:#5777a8;"}
+***
 
-<h4>Brookline Robotics Camp Sign Up Information:</h4>
+Brookline Robotics Initiative offers on-site robotics camps as a unique employee benefit. For a tax-deductible donation, we bring our full camp program directly to your workplace—complete with materials, instructors, and curriculum.
 
-This summer, we are excited to announce our collaboration with both Penguin Coding School and The Robo Hub!
-The buttons below will send you to a PDF of a flyer with information for both the Penguin Coding School Robotics Camp and The Robo Hub Robotics Camp, both in partnership with the Brookline Robotics Initiative.
-</p>
-</div>
+Employees can register 1-3 children (age 6-13) for hands-on robotics activities right at the office, solving summer childcare challenges while providing quality STEM education. We offer flexible formats including single-day, 3-day, or week-long camps, typically running 9am-5pm (regular work hours!)
+
+With 5 years of experience and a 98% satisfaction rating, our camps provide a convenient, impactful way to support your team while investing in the next generation of innovators.
+
+**Interested in bringing the BRI to your company?** Contact us at [brooklineroboticsinitiative@gmail.com](mailto:brooklineroboticsinitiative@gmail.com) to learn more about this partnership opportunity turnkey employee benefit program.
+
 
 ## Penguin Coding School Summer Camp
 {: style="font-size: 45px; text-align: left; color:#5777a8;"}
@@ -144,7 +139,7 @@ The buttons below will send you to a PDF of a flyer with information for both th
             
             <p>Through the academic year we mentor and coach First Lego League Robotics Teams (FLL) as well as First Tech Challenge Teams (FTC).</p>
         </div>
-
+        <br>
         <div class="link-section">
             <p><b>Check out:</b>
             <a href="https://penguincodingschool.com/brookline" 
@@ -157,12 +152,12 @@ The buttons below will send you to a PDF of a flyer with information for both th
         </div>
 
         <div class="offer-section">
-            <h3 class="section-heading">Summer $200 Discount & Fundraising for Brookline High School Robotics</h3>
-            <p>Use coupon code: <b>sumbhs2025</b> to sign up for our Summer Programs.</p>
+            <h3 class="section-heading">SUMMER $200 DISCOUNT & FUNDRAISING FOR BROOKLINE HIGH SCHOOL ROBOTICS:</h3>
+            <p>Use coupon code: <b>sumbhs2025</b> to sign up for our Summer Programs once registration opens.</p>
             <p>You get <b>$200 OFF</b> plus Brookline High School Robotics teams get a <b>$75 donation for each sign up.</b></p>
-            <br/>
+          
         </div>
-
+        <br>
         <div class="collaboration-section">
             <p>Penguin Coding School is collaborating with Brookline High School’s 3 FTC Robotics Teams: BBots, TNT and Cloud 9 by hiring many of their team members to bring you Lego Robotics instructions and fun during the spring and summer.</p>
         </div>
@@ -181,113 +176,12 @@ The buttons below will send you to a PDF of a flyer with information for both th
     </div>
 </div>
 
-## The Robo Hub Summer Camp
-{: style="font-size: 45px; text-align: left; color:#5777a8;"}
-***
-<div class="camp-container">
-    <div class="camp-content">
-        <div style="text-align: left;">
-<div class="camp-details">
-    <dl class="key-details">
-        <dt><b>Age Group:</b></dt>
-        <dd>Rising 1st graders to rising 9th graders.</dd>
-
-        <dt><b>Dates:</b></dt>
-        <dd>To Be Determined For 2026</dd>
-        
-        <dt><b>Times:</b></dt>
-        <dd>8:30am - 4:00pm (Extended Day available)</dd>
-    </dl>
-
-    <div class="camp-content">
-        <p>We're thrilled to announce a special collaboration between <b>The Robo Hub</b> and the <b>Brookline Robotics Initiative</b>, featuring Brookline High School's robotics teams (Brookline Bots, TNT, and Cloud 9) to bring world-class robotics education to Baker Elementary School this summer!</p>
-
-        <h3 class="section-heading">WHERE BROOKLINE INNOVATION MEETS SUMMER FUN:</h3>
-        <p>This isn't just another tech camp. The Robo Hub creates a warm, inclusive environment where children build robots AND friendships, develop technical skills AND confidence, and experience the perfect balance of structured learning and joyful play.</p>
-
-        <h3 class="section-heading">WHAT MAKES THIS PARTNERSHIP SPECIAL:</h3>
-        <ul>
-            <li><b>Local Excellence:</b> Camp counselors include members of BHS's renowned robotics teams</li>
-            <li><b>Community Support:</b> Your registration helps fund Brookline High School Robotics programs</li>
-            <li><b>Premier Location:</b> Baker Elementary School (2022 National Blue Ribbon School)</li>
-            <li><b>Proven Curriculum:</b> The same cutting-edge programs from The Robo Hub's flagship Cambridge center</li>
-        </ul>
-
-        <h3 class="section-heading">AVAILABLE PROGRAMS:</h3>
-        <div>
-            <p><b>Rising 1st Graders:</b></p>
-            <ul>
-                <li><b>STEM Explorers: First Discovery</b> - A playful introduction to coding and robotics</li>
-            </ul>
-
-            <p><b>Rising 2nd-3rd Graders:</b></p>
-            <ul>
-                <li><b>STEM Crafters: Engineering Discovery</b> - Dive deeper into coding and engineering</li>
-                <li><b>BattleBot Crafters Workshop</b> - Design and build custom battle robots</li>
-            </ul>
-
-            <p><b>Rising 4th-6th Graders:</b></p>
-            <ul>
-                <li><b>Battlebot Engineers Workshop</b> - More advanced robot design and programming for beginners to seasoned students</li>
-                <li><b>Aerospace Engineers Workshop</b> - Explore flight principles through hands-on projects</li>
-            </ul>
-            <br/>
-        </div>
-
-        <div class="offer-section">
-            <h3 class="section-heading">EXCLUSIVE OFFER FOR BROOKLINE FAMILIES:</h3>
-            <p><b>SAVE $200 WITH CODE: BROOKBOTS200</b><br>
-            <i>Using this discount code will support BHS Robotics teams in their fundraising efforts!</i></p>
-        </div>
-
-        <h3 class="section-heading">A DAY AT CAMP INCLUDES:</h3>
-        <ul>
-            <li>Hands-on robotics programming and building</li>
-            <li>Collaborative engineering challenges</li>
-            <li>Outdoor activities and team-building games</li>
-            <li>Creative problem-solving projects</li>
-            <li>Access to cutting-edge technology</li>
-            <li>Free early drop-off starting at 8:30am</li>
-            <li>Optional extended day until 5:30pm</li>
-        </ul>
-
-        <div>
-            <p class="urgency-note"><b>Spaces are limited and filling quickly for this inaugural Brookline program!</b></p>
-            <p class="registration-link">Register at <a href="https://therobohub.com/summer-camp-brookline/" target="_blank" rel="noopener">therobohub.com/summer-camp-brookline/</a></p>
-        </div>
-
-        <div class="contact-info">
-            <p><b>Have questions?</b><br>
-            Reach out to The Robo Hub at <a href="tel:617-395-3151">617-395-3151</a> or <a href="mailto:info@therobohub.com">info@therobohub.com</a>.</p>
-        </div>
-
-        <div>
-            <br/>
-            <p> Remember to use code <b>BROOKBOTS200</b> at checkout to claim your exclusive $200 discount and support BHS robotics teams!</p>
-        </div>
-    </div>
-</div>
-
-
-</div>
-    </div>
-    <div class="camp-flyer">
-        <div class="flyer-desktop">
-            <img src="../images/SummerCampFlyers/TheRoboHub.png" class="flyer-image">
-            <a href="../images/SummerCampFlyers/TheRoboHub.pdf" download class="download-link">Open Robo Hub Flyer</a>
-        </div>
-        <div class="flyer-mobile">
-            <a href="../images/SummerCampFlyers/TheRoboHub.pdf" download class="download-button">Open Robo Hub Flyer</a>
-        </div>
-    </div>
-</div>
 
 ## Registration
 {: style="font-size: 45px; text-align: center; color:#5777a8;"}
 ***
 
-To attend The Robo Hub Summer Camp, [register here](https://therobohub.com/summer-camp-brookline/#summer-camp-grid) before spots fill.
-<br/> To attend the Penguin Coding School Summer Camp, [register here](https://penguincodingschool.com/summer-coding-stem-robotics-kids-camp-newton-massachusetts) before spots fill.
+Registration for the summer of 2026 isn't open yet, but this page will be updated as soon as it is!
 {: style="text-align: center;"}
 
 
@@ -296,5 +190,7 @@ To attend The Robo Hub Summer Camp, [register here](https://therobohub.com/summe
 ***
 
 Contact The Robo Hub for more details [here](https://therobohub.com/contact-us/).
-<br/>Contact Penguin Coding School for more details [here](https://penguincodingschool.com/contact).
+{: style="text-align: center;"}
+
+Contact Penguin Coding School for more details [here](https://penguincodingschool.com/contact).
 {: style="text-align: center;"}
