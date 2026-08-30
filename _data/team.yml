@@ -3,25 +3,13 @@
   description: |-
   members:
     #Captains
-    - name: "Lila Cannon"
-      year: 26
-      captain: true
-      image: ../images/TeamMembers/Lila.jpg
-      bio: "Lila is a fifth-year member and team captain."
-
-    - name: "Callie Wu"
-      year: 26
-      captain: true
-      image: ../images/TeamMembers/Callie.jpg
-      bio: "Callie is a second-year member and team captain."
-
     - name: "Ananya Rajaraman"
       year: 27
       captain: true
       image: ../images/TeamMembers/Ananya.jpg
       bio: "Ananya is a third-year member and team captain."
 
-    #Juniors
+    #Seniors
     - name: "Yael Shapiro"
       year: 27
       image: ../images/TeamMembers/Yael.jpg
@@ -32,7 +20,7 @@
       image: ../images/TeamMembers/Talia.jpg
       bio: "Talia is a second-year member."
 
-    #Sophmores
+    #Juniors
     - name: "Brielle Hwang"
       year: 28
       image: ../images/TeamMembers/Brielle.jpg
@@ -63,11 +51,6 @@
       image: ../images/TeamMembers/Neta.jpg
       bio: "Neta is a first-year member."
 
-    - name: "Sophia Neer"
-      year: 28
-      image: ../images/TeamMembers/Sophia.jpg
-      bio: "Sophia is a first-year member."
-
     - name: "Violet Linas"
       year: 28
       image: ../images/TeamMembers/Violet.jpg
@@ -78,6 +61,29 @@
       image: ../images/TeamMembers/Doelle.jpg
       bio: "Doelle is a first-year member."
 
+    #Sophomores
+    - name: "EL Lee"
+      year: 29
+      bio: "EL is a first-year member."
+
+    - name: "Elora Liang"
+      year: 29
+      bio: "Elora is a first-year member."
+
+    - name: "Dana Imambek" 
+      year: 29
+      bio: "Dana is a first-year member."
+
+    #Freshmen
+    - name: "Bernice Silberberg"
+      year: 30
+      bio: "Bernice is a first-year member."
+
+    - name: "Heer Doshi"
+      year: 30
+      bio: "Heer is a first-year member."
+
+
 
 
 
@@ -86,25 +92,30 @@
   description: |-
   members:
     - name: "Adam Rizika"
-      role: "Head Coach"
+      role: "Head Non-Technical Coach"
       image: ../images/TeamMembers/Adam.jpg
-      bio: "Adam Rizika guides us through general team management skills and helps us troubleshoot any problems in the competition. He has been an invaluable resource for the past 6 years. He also lets us use his space to work during off-season."
+      bio: "Adam guides us through general team management, outreach, and finances. He was a founding mentor for the team."
 
     - name: "Matthew Allen"
-      role: "Technical Mentor"
+      role: "Head Technical Coach"
       image: ../images/TeamMembers/Matthew.jpg
-      bio: "Matthew advises our programmers and is a student at Boston University. As an alumni of FIRST, he gives us general recommendations."
-
-    - name: "Aubrey Love"
-      role: "CAD & Manufacturing Mentor"
-      image: ../images/Mentors/AubreyLove.png
-      bio: "Mr. Love helps us overcome problems related to Fusion 360 and CAD. Additionally, he allows us to use his machines to manufacture custom adaption pieces for our robot."
+      bio: "Matthew advises us and is a student at Boston University. As an alumni of FIRST, he shares his prior knowledge."
 
     - name: "Georgie Ford"
       role: "Technical CAD mentor "
       image: ../images/TeamMembers/Georgie.jpg
       bio: "Georgie advises our CADers and is a student at Boston University. As an alumni of FIRST, she gives us specialized recommendations."
 
+    - name: "Luki Deitchman"
+      role: "Technical CAD Mentor"
+      # image: ../images/Mentors/LukiDeitchman.png
+      bio: "Luki advises our CADers and is a student at Boston University. As an alumni of FIRST, they give us specialized recommendations."
+
+    - name: "Aubrey Love"
+      role: "CAD & Manufacturing Mentor"
+      image: ../images/Mentors/AubreyLove.png
+      bio: "Mr. Love helps us overcome problems related to Fusion 360 and CAD. Additionally, he allows us to use his machines to manufacture custom adaption pieces for our robot."
+    
     - name: "Britt Stevens"
       role: "Mentor"
       image: ../images/Mentors/BrittStevens.png
